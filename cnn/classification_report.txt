@@ -1,0 +1,54 @@
+================================================================================
+SMART AGRICULTURE CNN CLASSIFICATION REPORT
+================================================================================
+Model File:         cnn\best_model.keras
+Validation Samples: 17,572
+Overall Accuracy:   0.9322
+Macro Precision:    0.9333
+Macro Recall:       0.9318
+Macro F1-Score:     0.9319
+
+                                                    precision    recall  f1-score   support
+
+                                Apple___Apple_scab     0.9149    0.9385    0.9265       504
+                                 Apple___Black_rot     0.9717    0.9678    0.9698       497
+                          Apple___Cedar_apple_rust     0.9817    0.9727    0.9772       440
+                                   Apple___healthy     0.9176    0.9323    0.9249       502
+                               Blueberry___healthy     0.9552    0.9868    0.9707       454
+          Cherry_(including_sour)___Powdery_mildew     0.9902    0.9644    0.9771       421
+                 Cherry_(including_sour)___healthy     0.9510    0.9781    0.9643       456
+Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot     0.9115    0.8293    0.8685       410
+                       Corn_(maize)___Common_rust_     0.9937    0.9958    0.9948       477
+               Corn_(maize)___Northern_Leaf_Blight     0.8364    0.9539    0.8913       477
+                            Corn_(maize)___healthy     0.9871    0.9849    0.9860       465
+                                 Grape___Black_rot     0.9639    0.9047    0.9333       472
+                      Grape___Esca_(Black_Measles)     0.9354    0.9646    0.9497       480
+        Grape___Leaf_blight_(Isariopsis_Leaf_Spot)     0.9907    0.9860    0.9883       430
+                                   Grape___healthy     0.9451    0.9764    0.9605       423
+          Orange___Haunglongbing_(Citrus_greening)     0.9632    0.9901    0.9765       503
+                            Peach___Bacterial_spot     0.9780    0.7734    0.8637       459
+                                   Peach___healthy     0.9481    0.9722    0.9600       432
+                     Pepper,_bell___Bacterial_spot     0.9502    0.9184    0.9340       478
+                            Pepper,_bell___healthy     0.9240    0.9537    0.9386       497
+                             Potato___Early_blight     0.9376    0.9608    0.9491       485
+                              Potato___Late_blight     0.8928    0.8928    0.8928       485
+                                  Potato___healthy     0.9725    0.9320    0.9518       456
+                               Raspberry___healthy     0.9729    0.9685    0.9707       445
+                                 Soybean___healthy     0.9579    0.9465    0.9522       505
+                           Squash___Powdery_mildew     0.9724    0.9747    0.9735       434
+                          Strawberry___Leaf_scorch     0.9808    0.9212    0.9501       444
+                              Strawberry___healthy     0.9826    0.9912    0.9869       456
+                           Tomato___Bacterial_spot     0.8767    0.9365    0.9056       425
+                             Tomato___Early_blight     0.8156    0.7833    0.7991       480
+                              Tomato___Late_blight     0.7631    0.8488    0.8037       463
+                                Tomato___Leaf_Mold     0.9217    0.9021    0.9118       470
+                       Tomato___Septoria_leaf_spot     0.8197    0.7821    0.8005       436
+     Tomato___Spider_mites Two-spotted_spider_mite     0.8932    0.9034    0.8983       435
+                              Tomato___Target_Spot     0.8363    0.8162    0.8261       457
+            Tomato___Tomato_Yellow_Leaf_Curl_Virus     0.9669    0.9551    0.9610       490
+                      Tomato___Tomato_mosaic_virus     0.9562    0.9754    0.9657       448
+                                  Tomato___healthy     0.9380    0.9751    0.9562       481
+
+                                          accuracy                         0.9322     17572
+                                         macro avg     0.9333    0.9318    0.9319     17572
+                                      weighted avg     0.9332    0.9322    0.9320     17572

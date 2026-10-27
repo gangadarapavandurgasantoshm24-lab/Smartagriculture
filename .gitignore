@@ -1,0 +1,35 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Testing, coverage and IDE caches
+.pytest_cache/
+.coverage
+htmlcov/
+.idea/
+.vscode/
+
+# Virtual environments
+venv/
+env/
+.venv/
+ENV/
+
+# Large Datasets & Archives (Downloadable from Kaggle: New Plant Diseases Dataset)
+archive.zip
+archive/
+data/raw/New Plant Diseases Dataset(Augmented)/
+data/processed/
+data/scan_uploads/
+*.db
+*.sqlite3
+
+# Local Streamlit Secrets & Logs
+.streamlit/secrets.toml
+*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
+desktop.ini

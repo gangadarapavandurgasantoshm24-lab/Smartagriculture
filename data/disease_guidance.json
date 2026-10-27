@@ -1,0 +1,1715 @@
+{
+  "Apple___Apple_scab": {
+    "class_name": "Apple___Apple_scab",
+    "crop": "Apple",
+    "disease_name": "Apple Scab",
+    "etiology": "Fungal",
+    "causal_agent": "Venturia inaequalis (Ascomycete fungus)",
+    "overview": "Apple scab is a severe foliar and fruit disease affecting apple production in temperate orchards. The fungus overwinters in fallen infected leaves on the orchard floor and produces ascospores during spring rainy periods, causing primary infections on young foliage and sepals.",
+    "plain_language_symptoms": "Olive-green to dull brown velvety spots on upper leaf surfaces that gradually darken, develop raised, corky/scabby margins, and cause leaf distortion and premature defoliation.",
+    "visual_signs": [
+      "Velvety olive-brown circular foliar lesions",
+      "Cork-like scabby spots on leaves and fruit",
+      "Leaf puckering and premature drop"
+    ],
+    "preventive_measures": [
+      "Plant scab-resistant apple cultivars (e.g., Liberty, Freedom, Prima) where commercially viable.",
+      "Prune canopies during winter dormancy to promote rapid leaf drying and sun penetration.",
+      "Rake, chop, or compost fallen autumn leaves to eliminate the overwintering primary ascospore reservoir."
+    ],
+    "immediate_non_chemical_management": [
+      "Prune out heavily infected leaves during early scout inspections to reduce secondary conidial spread.",
+      "Switch from overhead sprinkler irrigation to ground-level drip irrigation to eliminate canopy wetness.",
+      "Rake and compost ground litter around tree driplines."
+    ],
+    "sanitation_and_irrigation": "Employ ground-level drip irrigation. Never apply sprinkler water during evening hours. In autumn, apply a 5% agricultural urea foliar spray just before leaf fall to accelerate leaf litter decomposition on the orchard floor.",
+    "chemical_treatment_status": "Appropriate (Verified)",
+    "chemical_guidance": {
+      "available": true,
+      "active_ingredient": "Difenoconazole 25% EC or Mancozeb 75% WP",
+      "formulation_and_dosage": "Difenoconazole 25% EC @ 30 ml per 100 L water (0.0125% a.i.) OR Mancozeb 75% WP @ 200-250 g per 100 L water (2.0-2.5 kg/ha).",
+      "application_method": "Apply as high-volume foliar spray with calibrated orchard sprayer ensuring thorough coverage of both upper and lower leaf surfaces. Initiate first spray at green bud / pink bud stage; repeat at petal fall if wet conditions persist.",
+      "safety_precautions": "Wear personal protective equipment (gloves, eye goggles, mask, apron). Do not spray during active honeybee foraging in bloom. Avoid application on windy days to prevent drift into water bodies.",
+      "re_entry_interval": "24 hours after application",
+      "pre_harvest_interval": "30 days for Difenoconazole; 30 days for Mancozeb",
+      "disclaimer": "Chemical fungicides manage fungal spore germination and secondary spread; they do not reverse existing necrotic lesions. Apply strictly in accordance with local university extension threshold warnings."
+    },
+    "sources": [
+      {
+        "title": "PPQS CIBRC - Major Uses of Registered Fungicides in India",
+        "official_url": "https://ppqs.gov.in/divisions/cib-rc/major-uses-of-pesticides",
+        "source_type": "Government Regulatory (PPQS/CIBRC)",
+        "last_verified": "2024-10"
+      },
+      {
+        "title": "Dr. YSP University of Horticulture & Forestry / ICAR Apple IPM Package",
+        "official_url": "http://www.yspuniversity.ac.in",
+        "source_type": "State Agricultural University / ICAR",
+        "last_verified": "2024-05"
+      }
+    ]
+  },
+  "Apple___Black_rot": {
+    "class_name": "Apple___Black_rot",
+    "crop": "Apple",
+    "disease_name": "Black Rot (Frogeye Leaf Spot)",
+    "etiology": "Fungal",
+    "causal_agent": "Botryosphaeria obtusa (syn. Diplodia seriata)",
+    "overview": "Black rot causes frogeye leaf spots, fruit rot, and limb cankers. The fungal pathogen overwinters in dead wood, pruning stubs, and mummified fruits hung on branches, releasing spores during warm spring rains.",
+    "plain_language_symptoms": "Small purple specks on the upper leaf surface enlarging into circular tan to brown spots with distinctive purple margins ('frogeye' appearance), often developing concentric rings.",
+    "visual_signs": [
+      "Circular brown spots with dark purple rings (frogeye pattern)",
+      "Dead bark cankers on limbs and branches",
+      "Mummified black shriveled fruit adhering to trees"
+    ],
+    "preventive_measures": [
+      "Prune out dead shoots, fire blight cankers, and limb stubs during annual dormant pruning.",
+      "Remove all mummified apples from the orchard canopy and ground before spring bud break.",
+      "Maintain tree vigor through balanced soil nutrition; avoid excessive nitrogen."
+    ],
+    "immediate_non_chemical_management": [
+      "Cut out symptomatic dead twigs and cankered branches at least 15 cm below visible margins.",
+      "Disinfect pruning shears in 70% ethanol or 10% sodium hypochlorite between cuts.",
+      "Bury or burn pruned dead wood away from the orchard block."
+    ],
+    "sanitation_and_irrigation": "Ensure open canopy architecture to facilitate rapid wind drying. Direct water exclusively to root zones using drip irrigation.",
+    "chemical_treatment_status": "Requires Expert Confirmation",
+    "chemical_guidance": {
+      "available": false,
+      "active_ingredient": null,
+      "formulation_and_dosage": null,
+      "application_method": null,
+      "safety_precautions": null,
+      "re_entry_interval": null,
+      "pre_harvest_interval": null,
+      "disclaimer": "A verified chemical recommendation is not available for this disease. Consult your local KVK or agricultural officer. Cultural sanitation (canker removal and mummified fruit disposal) is the primary verified control method for orchard black rot."
+    },
+    "sources": [
+      {
+        "title": "PPQS CIBRC Major Uses of Fungicides (Apple Section) & ICAR-CITH",
+        "official_url": "https://ppqs.gov.in/divisions/cib-rc/major-uses-pesticides",
+        "source_type": "PPQS / CIBRC, Ministry of Agriculture & Farmers Welfare",
+        "last_verified": "Checked October 2024 / PPQS CIBRC Major Uses"
+      }
+    ]
+  },
+  "Apple___Cedar_apple_rust": {
+    "class_name": "Apple___Cedar_apple_rust",
+    "crop": "Apple",
+    "disease_name": "Cedar Apple Rust",
+    "etiology": "Fungal",
+    "causal_agent": "Gymnosporangium juniperi-virginianae (Heteroecious rust fungus)",
+    "overview": "Cedar apple rust is a heteroecious fungal disease that requires both apple (or crabapple) and eastern red cedar/juniper species to complete its complex multi-stage life cycle. It cannot spread directly from apple leaf to apple leaf.",
+    "plain_language_symptoms": "Bright yellow-orange or reddish-orange circular spots on the upper leaf surface that produce tiny black speckles (pycnia). The underside develops swollen tubular projections (aecia) in mid-summer.",
+    "visual_signs": [
+      "Bright orange-yellow foliar spots with red halos",
+      "Tiny black raised dots in spot centers",
+      "Tube-like finger projections on lower leaf surfaces"
+    ],
+    "preventive_measures": [
+      "Plant rust-immune or resistant cultivars (e.g., Enterprise, Redfree, Liberty).",
+      "Remove eastern red cedar (Juniperus virginiana) trees within a 1-2 mile radius of commercial orchards where feasible.",
+      "Prune and destroy cedar galls from ornamental junipers in early spring before gall gelatinous horns emerge."
+    ],
+    "immediate_non_chemical_management": [
+      "Physically inspect orchard perimeters for neighboring juniper hosts.",
+      "Prune and destroy severely infected apple foliage to limit secondary aeciospore maturation."
+    ],
+    "sanitation_and_irrigation": "Keep foliage dry; manage orchard floor weeds to facilitate air circulation.",
+    "chemical_treatment_status": "Unavailable (Insufficient Evidence)",
+    "chemical_guidance": {
+      "available": false,
+      "active_ingredient": null,
+      "formulation_and_dosage": null,
+      "application_method": null,
+      "safety_precautions": null,
+      "re_entry_interval": null,
+      "pre_harvest_interval": null,
+      "disclaimer": "A verified chemical recommendation is not available for this disease. Consult your local KVK or agricultural officer. Cedar apple rust is primarily managed via alternate host eradication and resistant varieties."
+    },
+    "sources": [
+      {
+        "title": "USDA-ARS Plant Pathology Research Unit - Heteroecious Rust Profiles",
+        "official_url": "https://www.ars.usda.gov",
+        "source_type": "Government Regulatory (USDA/ARS)",
+        "last_verified": "2024-03"
+      },
+      {
+        "title": "ICAR-CITH Temperate Fruit Disease Database",
+        "official_url": "https://cith.icar.gov.in",
+        "source_type": "ICAR National Institute",
+        "last_verified": "2024-06"
+      }
+    ]
+  },
+  "Apple___healthy": {
+    "class_name": "Apple___healthy",
+    "crop": "Apple",
+    "disease_name": "Healthy Apple Foliage",
+    "etiology": "Healthy",
+    "causal_agent": "None (Healthy tissue)",
+    "overview": "Healthy apple foliage exhibits uniform chlorophyll pigmentation, intact cuticle, and normal physiological photosynthesis, free of fungal lesions, bacterial blights, or viral chlorosis.",
+    "plain_language_symptoms": "Uniform deep green leaf blade, intact serrated leaf margins, pale prominent leaf veins, with complete absence of spots, necrotic lesions, or powdery fungal growth.",
+    "visual_signs": [
+      "Intact deep green ovate leaves",
+      "Absence of chlorosis, necrosis, or foliar distortion",
+      "Vigorous shoot growth with clean cuticle"
+    ],
+    "preventive_measures": [
+      "Maintain balanced orchard soil fertility based on biennial leaf tissue and soil tests.",
+      "Conduct regular weekly scouting for early insect pests and micro-climate disease conditions.",
+      "Ensure proper pruning to maintain sunlight interception across fruiting spurs."
+    ],
+    "immediate_non_chemical_management": [
+      "No disease mitigation required.",
+      "Continue routine drip irrigation scheduling based on evapotranspiration demand."
+    ],
+    "sanitation_and_irrigation": "Maintain clean orchard floor sod, apply organic mulch around tree dripline, and ensure proper drainage to prevent water stagnation.",
+    "chemical_treatment_status": "Inappropriate (Healthy Foliage)",
+    "chemical_guidance": {
+      "available": false,
+      "active_ingredient": null,
+      "formulation_and_dosage": null,
+      "application_method": null,
+      "safety_precautions": null,
+      "re_entry_interval": null,
+      "pre_harvest_interval": null,
+      "disclaimer": "Chemical treatment is strictly inappropriate for healthy plant foliage. Continue routine orchard scouting, balanced fertilization, and good water management."
+    },
+    "sources": [
+      {
+        "title": "ICAR Good Agricultural Practices (GAP) for Apple Production",
+        "official_url": "https://icar.org.in",
+        "source_type": "ICAR National Institute",
+        "last_verified": "2024-05"
+      }
+    ]
+  },
+  "Blueberry___healthy": {
+    "class_name": "Blueberry___healthy",
+    "crop": "Blueberry",
+    "disease_name": "Healthy Blueberry Foliage",
+    "etiology": "Healthy",
+    "causal_agent": "None (Healthy tissue)",
+    "overview": "Healthy blueberry foliage displays smooth elliptical leaves with dark green coloration, indicating balanced soil acidity (pH 4.5 to 5.2) and adequate mycorrhizal root function.",
+    "plain_language_symptoms": "Glossy, smooth, elliptical leaves with consistent green pigment, clean petioles, and absence of interveinal chlorosis, rust pustules, or marginal scorch.",
+    "visual_signs": [
+      "Smooth dark green elliptical leaves",
+      "Intact leaf margins and unblemished surface",
+      "Vigorous new cane growth"
+    ],
+    "preventive_measures": [
+      "Maintain acidic soil pH (4.5–5.2) using elemental sulfur or organic pine bark mulches.",
+      "Use drip irrigation with acidified water where irrigation sources have high carbonates.",
+      "Scout periodically for blueberry gall midge and scale insects."
+    ],
+    "immediate_non_chemical_management": [
+      "No disease mitigation required.",
+      "Maintain steady soil moisture under mulch without waterlogging root systems."
+    ],
+    "sanitation_and_irrigation": "Apply a 7–10 cm layer of aged pine bark or sawdust mulch over raised planting beds. Avoid overhead sprinkling.",
+    "chemical_treatment_status": "Inappropriate (Healthy Foliage)",
+    "chemical_guidance": {
+      "available": false,
+      "active_ingredient": null,
+      "formulation_and_dosage": null,
+      "application_method": null,
+      "safety_precautions": null,
+      "re_entry_interval": null,
+      "pre_harvest_interval": null,
+      "disclaimer": "Chemical treatment is strictly inappropriate for healthy plant foliage. Continue routine orchard scouting, balanced fertilization, and good water management."
+    },
+    "sources": [
+      {
+        "title": "ICAR / NHB Package of Practices for Temperate Berry Cultivation",
+        "official_url": "http://nhb.gov.in",
+        "source_type": "Government Regulatory (NHB/MoA)",
+        "last_verified": "2024-04"
+      }
+    ]
+  },
+  "Cherry_(including_sour)___Powdery_mildew": {
+    "class_name": "Cherry_(including_sour)___Powdery_mildew",
+    "crop": "Cherry (including sour)",
+    "disease_name": "Powdery Mildew",
+    "etiology": "Fungal",
+    "causal_agent": "Podosphaera clandestina (Erysiphales fungus)",
+    "overview": "Powdery mildew attacks leaves, succulent green shoots, and young fruit of both sweet and sour cherry trees. The fungus produces superficial mycelium and abundant conidia under warm, humid conditions with shaded canopies.",
+    "plain_language_symptoms": "White to pale gray powdery fungal coating developing on the lower and upper surfaces of young terminal leaves, causing leaf puckering, upward curling, and stunted shoot development.",
+    "visual_signs": [
+      "Talcum-like white powdery fungal patches",
+      "Upward cupping and curling of young terminal foliage",
+      "Chlorotic discoloration beneath fungal colonies"
+    ],
+    "preventive_measures": [
+      "Prune vigorous water-sprouts and interior branches to lower canopy relative humidity and increase sunlight.",
+      "Avoid excessive spring nitrogen fertilization, which generates abundant vulnerable succulent shoots.",
+      "Select orchard sites with good air drainage and full solar exposure."
+    ],
+    "immediate_non_chemical_management": [
+      "Prune and discard severely mildewed terminal shoot tips during early summer inspections.",
+      "Ensure ground surface under trees is clean and weed-free to maximize air movement."
+    ],
+    "sanitation_and_irrigation": "Use ground drip irrigation. Avoid overhead sprinkling that creates high microclimate humidity.",
+    "chemical_treatment_status": "Requires Expert Confirmation",
+    "chemical_guidance": {
+      "available": false,
+      "active_ingredient": null,
+      "formulation_and_dosage": null,
+      "application_method": "Foliar chemical spraying is not verified for this specific crop-pathogen pair under current CIBRC registrations. Do not apply unverified chemical dosages.",
+      "safety_precautions": "Standard PPE advisory: Wear protective nitrile gloves, eye protection, and mask during field operations.",
+      "re_entry_interval": "N/A - No verified chemical treatment",
+      "pre_harvest_interval": "N/A - No verified chemical treatment",
+      "disclaimer": "A verified chemical recommendation is not available for this disease. Consult your local KVK or agricultural officer. Cherry is not listed under CIBRC national Major Uses for Hexaconazole or Wettable Sulfur. Commercial cherry cultivation in India is localized to temperate zones (J&K, HP) where localized SKUAST/state university advisories must be consulted."
+    },
+    "sources": [
+      {
+        "title": "PPQS CIBRC Major Uses & SKUAST-K Temperate Fruit Advisory",
+        "official_url": "https://ppqs.gov.in/divisions/cib-rc/major-uses-pesticides",
+        "source_type": "PPQS / CIBRC, Ministry of Agriculture & Farmers Welfare",
+        "last_verified": "Checked October 2024 / PPQS CIBRC Major Uses"
+      }
+    ]
+  },
+  "Cherry_(including_sour)___healthy": {
+    "class_name": "Cherry_(including_sour)___healthy",
+    "crop": "Cherry (including sour)",
+    "disease_name": "Healthy Cherry Foliage",
+    "etiology": "Healthy",
+    "causal_agent": "None (Healthy tissue)",
+    "overview": "Healthy cherry foliage is characterized by vibrant green ovate-lanceolate leaves with double serrations, clean petiole glands, and unblemished cuticles.",
+    "plain_language_symptoms": "Vibrant green pointed leaves with uniform texture, clean veins, and complete freedom from fungal powder, necrotic shotholes, or leaf scorch.",
+    "visual_signs": [
+      "Vibrant green ovate leaves with serrated margins",
+      "Healthy red-green petiole glands",
+      "Clean leaf blade with no lesions or powder"
+    ],
+    "preventive_measures": [
+      "Conduct dormant pruning to maintain an open canopy architecture.",
+      "Apply protective dormant copper spray during late autumn leaf-drop strictly if bacterial canker is endemic in the district.",
+      "Monitor soil moisture and maintain balanced potassium and nitrogen levels."
+    ],
+    "immediate_non_chemical_management": [
+      "No disease mitigation required.",
+      "Continue standard irrigation and weed control protocols."
+    ],
+    "sanitation_and_irrigation": "Maintain well-drained orchard beds; eliminate standing water around tree crowns.",
+    "chemical_treatment_status": "Inappropriate (Healthy Foliage)",
+    "chemical_guidance": {
+      "available": false,
+      "active_ingredient": null,
+      "formulation_and_dosage": null,
+      "application_method": null,
+      "safety_precautions": null,
+      "re_entry_interval": null,
+      "pre_harvest_interval": null,
+      "disclaimer": "Chemical treatment is strictly inappropriate for healthy plant foliage. Continue routine orchard scouting, balanced fertilization, and good water management."
+    },
+    "sources": [
+      {
+        "title": "ICAR-CITH Good Horticultural Practices for Cherry Orchards",
+        "official_url": "https://cith.icar.gov.in",
+        "source_type": "ICAR National Institute",
+        "last_verified": "2024-06"
+      }
+    ]
+  },
+  "Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot": {
+    "class_name": "Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot",
+    "crop": "Corn (maize)",
+    "disease_name": "Gray Leaf Spot (Cercospora Leaf Spot)",
+    "etiology": "Fungal",
+    "causal_agent": "Cercospora zeae-maydis (Fungus)",
+    "overview": "Gray leaf spot is a foliar fungal disease that thrives in warm, humid weather. The fungus overwinters in corn residue and produces conidia that infect lower leaves, moving upward to blighting photosynthetic area during grain fill.",
+    "plain_language_symptoms": "Small tan spots with yellow halos that expand into long, narrow, rectangular lesions strictly restricted by parallel leaf veins. Spots turn grayish when fungal sporulation occurs.",
+    "visual_signs": [
+      "Narrow rectangular lesions bound by leaf veins",
+      "Tan to gray necrotic center with chlorotic yellow border",
+      "Extensive leaf blighting starting from lower canopy"
+    ],
+    "preventive_measures": [
+      "Plant corn hybrids with high genetic tolerance or resistance to Cercospora leaf spot.",
+      "Rotate fields out of corn to non-host crops (soybean, alfalfa) for at least one year.",
+      "In corporate or conventional acreage with severe history, practice residue management or deep tillage to bury crop debris."
+    ],
+    "immediate_non_chemical_management": [
+      "Scout fields at V8 to VT stages; document percentage of ear leaves showing rectangular lesions.",
+      "Avoid excess plant population densities that severely restrict airflow through the lower canopy."
+    ],
+    "sanitation_and_irrigation": "Avoid late afternoon overhead sprinkler irrigation. Ensure efficient field drainage.",
+    "chemical_treatment_status": "Requires Expert Confirmation",
+    "chemical_guidance": {
+      "available": false,
+      "active_ingredient": null,
+      "formulation_and_dosage": null,
+      "application_method": "Foliar chemical spraying is not verified for this specific crop-pathogen pair under current CIBRC registrations. Do not apply unverified chemical dosages.",
+      "safety_precautions": "Standard PPE advisory: Wear protective nitrile gloves, eye protection, and mask during field operations.",
+      "re_entry_interval": "N/A - No verified chemical treatment",
+      "pre_harvest_interval": "N/A - No verified chemical treatment",
+      "disclaimer": "A verified chemical recommendation is not available for this disease. Consult your local KVK or agricultural officer. Gray leaf spot (Cercospora zeae-maydis) is not an approved registered label target disease under CIBRC for maize in India (only Turcicum blight, Maydis blight, and Common rust have approved label claims). Consult your local KVK for verified localized recommendations."
+    },
+    "sources": [
+      {
+        "title": "PPQS CIBRC Major Uses of Fungicides (Maize Section)",
+        "official_url": "https://ppqs.gov.in/divisions/cib-rc/major-uses-pesticides",
+        "source_type": "PPQS / CIBRC, Ministry of Agriculture & Farmers Welfare",
+        "last_verified": "Checked October 2024 / PPQS CIBRC Major Uses"
+      }
+    ]
+  },
+  "Corn_(maize)___Common_rust_": {
+    "class_name": "Corn_(maize)___Common_rust_",
+    "crop": "Corn (maize)",
+    "disease_name": "Common Rust",
+    "etiology": "Fungal",
+    "causal_agent": "Puccinia sorghi (Macrocyclic rust fungus)",
+    "overview": "Common rust produces airborne urediniospores that are blown across regions on prevailing winds. It attacks leaves during cool, moist weather, creating pustules that break the cuticle and increase transpiration.",
+    "plain_language_symptoms": "Small, oval to elongate cinnamon-brown powdery pustules scattered across both the upper and lower leaf surfaces. Pustules rupture the leaf epidermis and turn dark brownish-black as teliospores form late in the season.",
+    "visual_signs": [
+      "Raised cinnamon-brown powdery rust pustules",
+      "Pustules on both upper and lower leaf surfaces",
+      "Chlorotic yellowing surrounding dense pustule clusters"
+    ],
+    "preventive_measures": [
+      "Select corn hybrids carrying the Rp single-gene resistance or high general quantitative resistance.",
+      "Plant early in the season to allow crop development past critical grain-filling before airborne spore arrivals peak."
+    ],
+    "immediate_non_chemical_management": [
+      "Scout upper leaves at whorl and silking stages; assess if pustule coverage exceeds economic threshold (usually >10% leaf area on ear leaf).",
+      "Maintain adequate potassium fertility to strengthen stalk and leaf tissue resistance."
+    ],
+    "sanitation_and_irrigation": "Manage field drainage to prevent prolonged standing humidity.",
+    "chemical_treatment_status": "Appropriate (Verified)",
+    "chemical_guidance": {
+      "available": true,
+      "active_ingredient": "Mancozeb 75% WP or Azoxystrobin 23% SC",
+      "formulation_and_dosage": "Mancozeb 75% WP @ 2.0-2.5 g per liter of water (1.5-2.0 kg/ha in 500-750 L water) OR Azoxystrobin 23% SC @ 1.0 ml per liter of water.",
+      "application_method": "Foliar spray applied upon first emergence of rust pustules prior to silking stage; repeat after 10-14 days if cool (16-24°C), humid weather persists.",
+      "safety_precautions": "Wear protective rubber gloves, mask, and clothing. Avoid spraying during high temperatures or wind drift.",
+      "re_entry_interval": "24 hours after application",
+      "pre_harvest_interval": "21 days before harvest",
+      "disclaimer": "Fungicide application is rarely cost-effective on field corn unless susceptible inbred lines or sweet corn varieties are grown under heavy early rust pressure."
+    },
+    "sources": [
+      {
+        "title": "ICAR-IIMR Maize Protection and Disease Management Guidelines",
+        "official_url": "https://iimr.icar.gov.in",
+        "source_type": "ICAR National Institute",
+        "last_verified": "2024-07"
+      },
+      {
+        "title": "Punjab Agricultural University (PAU) - Package of Practices for Kharif Crops",
+        "official_url": "https://www.pau.edu",
+        "source_type": "State Agricultural University / ICAR",
+        "last_verified": "2024-06"
+      }
+    ]
+  },
+  "Corn_(maize)___Northern_Leaf_Blight": {
+    "class_name": "Corn_(maize)___Northern_Leaf_Blight",
+    "crop": "Corn (maize)",
+    "disease_name": "Northern Corn Leaf Blight (NCLB)",
+    "etiology": "Fungal",
+    "causal_agent": "Exserohilum turcicum (syn. Setosphaeria turcica)",
+    "overview": "Northern corn leaf blight causes dramatic loss of photosynthetic leaf area. The fungus overwinters in corn residue and disperses conidia via rain splash and wind into the lower canopy.",
+    "plain_language_symptoms": "Long, elliptical, cigar-shaped grayish-green to tan lesions (2.5 to 15 cm long) with smooth margins. Under humid conditions, dark olive-gray fungal spores form in the lesion centers.",
+    "visual_signs": [
+      "Large cigar-shaped elliptical tan lesions",
+      "Lesions not restricted by leaf veins",
+      "Extensive leaf desiccation during grain fill"
+    ],
+    "preventive_measures": [
+      "Plant corn hybrids with Ht resistance genes or robust quantitative multigenic tolerance.",
+      "Practice 1- to 2-year crop rotation out of corn to diminish viable residue inoculum.",
+      "Incorporate or shred post-harvest crop residue where conservation tillage regulations allow."
+    ],
+    "immediate_non_chemical_management": [
+      "Scout fields during pre-tassel (V12 to VT) stages, especially in bottomland fields prone to prolonged morning fog/dew.",
+      "Avoid overhead irrigation during evening hours."
+    ],
+    "sanitation_and_irrigation": "Ensure uniform plant spacing to enhance canopy air drying. Provide balanced phosphorus and potassium nutrition.",
+    "chemical_treatment_status": "Appropriate (Verified)",
+    "chemical_guidance": {
+      "available": true,
+      "active_ingredient": "Mancozeb 75% WP or Azoxystrobin 18.2% + Difenoconazole 11.4% SC",
+      "formulation_and_dosage": "Mancozeb 75% WP @ 2.0-2.5 g per liter of water (1.5-2.0 kg/ha) OR Azoxystrobin + Difenoconazole SC @ 1.0 ml per liter of water.",
+      "application_method": "Foliar spray applied at first appearance of lesions on lower leaves before silking. Re-apply after 10-14 days if weather remains rainy and cool.",
+      "safety_precautions": "Wear protective gear (respirator, gloves, goggles). Avoid applying directly over water courses.",
+      "re_entry_interval": "24 hours after application",
+      "pre_harvest_interval": "28 days before harvest",
+      "disclaimer": "Economic returns from fungicide sprays depend heavily on hybrid susceptibility, grain market price, and weather conditions prior to dent stage (R5)."
+    },
+    "sources": [
+      {
+        "title": "ICAR-IIMR Technical Bulletin on Maize Foliar Diseases",
+        "official_url": "https://iimr.icar.gov.in",
+        "source_type": "ICAR National Institute",
+        "last_verified": "2024-07"
+      },
+      {
+        "title": "PPQS CIBRC - Approved Fungicides on Maize",
+        "official_url": "https://ppqs.gov.in/divisions/cib-rc/major-uses-of-pesticides",
+        "source_type": "Government Regulatory (PPQS/CIBRC)",
+        "last_verified": "2024-10"
+      }
+    ]
+  },
+  "Corn_(maize)___healthy": {
+    "class_name": "Corn_(maize)___healthy",
+    "crop": "Corn (maize)",
+    "disease_name": "Healthy Corn Foliage",
+    "etiology": "Healthy",
+    "causal_agent": "None (Healthy tissue)",
+    "overview": "Healthy corn foliage exhibits erect, arching leaves with intact linear venation and prominent pale midribs, conducting active photosynthesis without fungal or bacterial stress.",
+    "plain_language_symptoms": "Broad, erect, deep green arching leaves with intact midrib, parallel venation, and clean leaf margins free of lesions, pustules, or striping.",
+    "visual_signs": [
+      "Deep green broad arching leaves",
+      "Strong central midrib and clean veins",
+      "Absence of foliar spots or blights"
+    ],
+    "preventive_measures": [
+      "Ensure balanced split nitrogen applications to avoid nitrogen deficiency chlorosis.",
+      "Conduct regular scouting for armyworm, stem borer, and rootworm feeding.",
+      "Maintain optimal plant populations (60,000 to 75,000 plants/ha) to prevent inter-plant light competition."
+    ],
+    "immediate_non_chemical_management": [
+      "No disease mitigation required.",
+      "Ensure proper weed management to reduce moisture and nutrient competition."
+    ],
+    "sanitation_and_irrigation": "Ensure uniform soil moisture during the critical flowering (silking and tasseling) window.",
+    "chemical_treatment_status": "Inappropriate (Healthy Foliage)",
+    "chemical_guidance": {
+      "available": false,
+      "active_ingredient": null,
+      "formulation_and_dosage": null,
+      "application_method": null,
+      "safety_precautions": null,
+      "re_entry_interval": null,
+      "pre_harvest_interval": null,
+      "disclaimer": "Chemical treatment is strictly inappropriate for healthy plant foliage. Continue routine orchard scouting, balanced fertilization, and good water management."
+    },
+    "sources": [
+      {
+        "title": "ICAR-IIMR Good Agricultural Practices for Maize Cultivation",
+        "official_url": "https://iimr.icar.gov.in",
+        "source_type": "ICAR National Institute",
+        "last_verified": "2024-07"
+      }
+    ]
+  },
+  "Grape___Black_rot": {
+    "class_name": "Grape___Black_rot",
+    "crop": "Grape",
+    "disease_name": "Grape Black Rot",
+    "etiology": "Fungal",
+    "causal_agent": "Guignardia bidwellii (Fungus)",
+    "overview": "Grape black rot is a destructive fungal disease that attacks leaves, shoots, and berries. It overwinters in mummified berries on vines or the ground, releasing ascospores during spring rain events.",
+    "plain_language_symptoms": "Circular reddish-brown to tan spots on leaves, surrounded by dark brown margins. Inside the necrotic centers, minute black pimple-like fruiting bodies (pycnidia) form in a ring.",
+    "visual_signs": [
+      "Reddish-brown circular spots with dark borders",
+      "Ring of tiny black fruiting pycnidia in spot centers",
+      "Black shriveled mummified berries"
+    ],
+    "preventive_measures": [
+      "Prune vines to open canopy structure, allowing rapid air movement and quick drying of cluster zones.",
+      "Remove all mummified grape clusters from vine cordons and trellises during winter pruning.",
+      "Cultivate the vineyard floor before bud break to bury mummies and prevent ascospore discharge."
+    ],
+    "immediate_non_chemical_management": [
+      "Hand-pick and destroy isolated leaves and grape clusters showing early black rot lesions.",
+      "Avoid overhead sprinkler irrigation; maintain clean floor drip lines."
+    ],
+    "sanitation_and_irrigation": "Rake and compost all pruned canes and mummies; do not leave canes piled at vine rows.",
+    "chemical_treatment_status": "Requires Expert Confirmation",
+    "chemical_guidance": {
+      "available": false,
+      "active_ingredient": null,
+      "formulation_and_dosage": null,
+      "application_method": "Foliar chemical spraying is not verified for this specific crop-pathogen pair under current CIBRC registrations. Do not apply unverified chemical dosages.",
+      "safety_precautions": "Standard PPE advisory: Wear protective nitrile gloves, eye protection, and mask during field operations.",
+      "re_entry_interval": "N/A - No verified chemical treatment",
+      "pre_harvest_interval": "N/A - No verified chemical treatment",
+      "disclaimer": "A verified chemical recommendation is not available for this disease. Consult your local KVK or agricultural officer. Black rot (Guignardia bidwellii) is not a registered target disease under CIBRC for grapes in India (CIBRC grape registrations cover Downy Mildew, Powdery Mildew, and Anthracnose). Field sanitation and canker removal are primary."
+    },
+    "sources": [
+      {
+        "title": "PPQS CIBRC Major Uses of Fungicides (Grape Section) & ICAR-NRCG",
+        "official_url": "https://ppqs.gov.in/divisions/cib-rc/major-uses-pesticides",
+        "source_type": "PPQS / CIBRC, Ministry of Agriculture & Farmers Welfare",
+        "last_verified": "Checked October 2024 / PPQS CIBRC Major Uses"
+      }
+    ]
+  },
+  "Grape___Esca_(Black_Measles)": {
+    "class_name": "Grape___Esca_(Black_Measles)",
+    "crop": "Grape",
+    "disease_name": "Esca (Black Measles / Grape Trunk Disease)",
+    "etiology": "Fungal Complex",
+    "causal_agent": "Phaeomoniella chlamydospora, Phaeoacremonium minimum, and Fomitiporia mediterranea complex",
+    "overview": "Esca is a complex vascular and wood-decay disease of grapevines. Fungal pathogens enter through pruning wounds, slowly colonizing and destroying the trunk vascular xylem and releasing phytotoxins that manifest on leaves.",
+    "plain_language_symptoms": "'Tiger-stripe' chlorotic and necrotic patterns between leaf veins. Berry skins develop small dark brown or purple puncture-like spots resembling measles, followed by sudden vine apoplexy (wilting) in summer.",
+    "visual_signs": [
+      "Interveinal yellow and brown tiger-stripe leaf patterns",
+      "Small purple freckles or measles spots on berries",
+      "Internal wood rot showing black spotting and spongy white rot in trunk cross-sections"
+    ],
+    "preventive_measures": [
+      "Protect all large pruning wounds (>1.5 cm diameter) immediately with wound sealant or Trichoderma viride bio-paste.",
+      "Avoid pruning during wet, rainy weather when airborne fungal spores are actively released.",
+      "Disinfect pruning saws and shears between vines using 70% alcohol or bleach solution."
+    ],
+    "immediate_non_chemical_management": [
+      "Mark symptomatic vines during summer for remedial pruning or surgical trunk renewal during the subsequent dormant season.",
+      "In severely infected mature vines, practice trunk renewal by retraining a healthy basal sucker."
+    ],
+    "sanitation_and_irrigation": "Burn or dispose of all dead wood and pruned cordons away from vineyard blocks; never shred or chip infected trunk wood in vine rows.",
+    "chemical_treatment_status": "Inappropriate (Trunk/Vascular Disease)",
+    "chemical_guidance": {
+      "available": false,
+      "active_ingredient": null,
+      "formulation_and_dosage": null,
+      "application_method": null,
+      "safety_precautions": null,
+      "re_entry_interval": null,
+      "pre_harvest_interval": null,
+      "disclaimer": "Chemical foliar sprays are inappropriate and completely ineffective for Esca because the fungal complex resides deep within the perennial woody trunk xylem. Pruning wound bio-protection (Trichoderma paste) is the verified management technique. Consult your local KVK or viticulture specialist."
+    },
+    "sources": [
+      {
+        "title": "ICAR-NRCG - Grape Trunk Disease and Pruning Wound Protection Advisory",
+        "official_url": "https://nrcgrapes.icar.gov.in",
+        "source_type": "ICAR National Institute",
+        "last_verified": "2024-05"
+      },
+      {
+        "title": "University of California Statewide IPM Program - Grape Esca Complex",
+        "official_url": "https://ipm.ucanr.edu",
+        "source_type": "International Botanical Extension",
+        "last_verified": "2024-04"
+      }
+    ]
+  },
+  "Grape___Leaf_blight_(Isariopsis_Leaf_Spot)": {
+    "class_name": "Grape___Leaf_blight_(Isariopsis_Leaf_Spot)",
+    "crop": "Grape",
+    "disease_name": "Leaf Blight (Phaeoisariopsis / Isariopsis Leaf Spot)",
+    "etiology": "Fungal",
+    "causal_agent": "Pseudocercospora vitis (syn. Phaeoisariopsis vitis)",
+    "overview": "Grape leaf blight occurs predominantly in late summer and autumn post-harvest. The fungus causes premature defoliation, which deprives grapevines of late-season photosynthetic reserves and weakens dormant buds.",
+    "plain_language_symptoms": "Irregular, dark brown to black necrotic angular spots on older leaves with yellowish halos. Lesions coalesce into broad scorched leaf blights, leading to curling and early leaf drop.",
+    "visual_signs": [
+      "Angular dark brown spots with yellow borders",
+      "Large irregular blighted necrotic patches",
+      "Premature autumn defoliation"
+    ],
+    "preventive_measures": [
+      "Maintain open canopy architecture via shoot thinning and leaf pulling around fruiting zones.",
+      "Remove and destroy heavily blighted leaves post-harvest to reduce the overwintering inoculum reservoir.",
+      "Maintain balanced potassium nutrition to prevent premature leaf senescence."
+    ],
+    "immediate_non_chemical_management": [
+      "Prune congested shoots to improve sunlight penetration and air movement.",
+      "Avoid overhead sprinkler irrigation; ensure ground drip lines function properly."
+    ],
+    "sanitation_and_irrigation": "Rake and compost fallen leaf debris in vineyard alleys after autumn defoliation.",
+    "chemical_treatment_status": "Requires Expert Confirmation",
+    "chemical_guidance": {
+      "available": false,
+      "active_ingredient": null,
+      "formulation_and_dosage": null,
+      "application_method": "Foliar chemical spraying is not verified for this specific crop-pathogen pair under current CIBRC registrations. Do not apply unverified chemical dosages.",
+      "safety_precautions": "Standard PPE advisory: Wear protective nitrile gloves, eye protection, and mask during field operations.",
+      "re_entry_interval": "N/A - No verified chemical treatment",
+      "pre_harvest_interval": "N/A - No verified chemical treatment",
+      "disclaimer": "A verified chemical recommendation is not available for this disease. Consult your local KVK or agricultural officer. Leaf blight (Isariopsis clavispora / Pseudocercospora cladosporioides) is not an individually registered label target disease under CIBRC for grapes. Consult ICAR-NRCG or local KVK viticulture specialists."
+    },
+    "sources": [
+      {
+        "title": "PPQS CIBRC Major Uses & ICAR-NRC for Grapes",
+        "official_url": "https://ppqs.gov.in/divisions/cib-rc/major-uses-pesticides",
+        "source_type": "PPQS / CIBRC, Ministry of Agriculture & Farmers Welfare",
+        "last_verified": "Checked October 2024 / PPQS CIBRC Major Uses"
+      }
+    ]
+  },
+  "Grape___healthy": {
+    "class_name": "Grape___healthy",
+    "crop": "Grape",
+    "disease_name": "Healthy Grape Foliage",
+    "etiology": "Healthy",
+    "causal_agent": "None (Healthy tissue)",
+    "overview": "Healthy grapevine foliage displays vibrant palmate lobed leaves with distinct veins and clean petiole sinuses, actively photosynthesizing to mature clusters and store carbohydrate reserves in rootstock.",
+    "plain_language_symptoms": "Uniform deep green palmate leaves with intact serrated margins, smooth clean leaf surface, and complete freedom from necrotic spots, tiger striping, or downy mold.",
+    "visual_signs": [
+      "Vibrant green palmate leaves",
+      "Smooth leaf blade with prominent veins",
+      "Intact sinus margins free of lesions"
+    ],
+    "preventive_measures": [
+      "Perform shoot positioning and lateral shoot removal to maintain balanced canopy ventilation.",
+      "Conduct regular weekly scouting for powdery mildew, downy mildew, and thrips.",
+      "Maintain drip fertigation matching vine phenological stages."
+    ],
+    "immediate_non_chemical_management": [
+      "No disease mitigation required.",
+      "Continue standard vine canopy shoot tying and wire lifting."
+    ],
+    "sanitation_and_irrigation": "Maintain clean vineyard floor under vine rows with drip irrigation. Prevent standing water.",
+    "chemical_treatment_status": "Inappropriate (Healthy Foliage)",
+    "chemical_guidance": {
+      "available": false,
+      "active_ingredient": null,
+      "formulation_and_dosage": null,
+      "application_method": null,
+      "safety_precautions": null,
+      "re_entry_interval": null,
+      "pre_harvest_interval": null,
+      "disclaimer": "Chemical treatment is strictly inappropriate for healthy plant foliage. Continue routine orchard scouting, balanced fertilization, and good water management."
+    },
+    "sources": [
+      {
+        "title": "ICAR-NRCG Viticulture Good Agricultural Practices",
+        "official_url": "https://nrcgrapes.icar.gov.in",
+        "source_type": "ICAR National Institute",
+        "last_verified": "2024-05"
+      }
+    ]
+  },
+  "Orange___Haunglongbing_(Citrus_greening)": {
+    "class_name": "Orange___Haunglongbing_(Citrus_greening)",
+    "crop": "Orange",
+    "disease_name": "Huanglongbing (HLB / Citrus Greening)",
+    "etiology": "Bacterial / Vector-Borne",
+    "causal_agent": "Candidatus Liberibacter asiaticus (Fastidious phloem-restricted bacterium spread by Asian citrus psyllid)",
+    "overview": "Huanglongbing (HLB) is the most destructive citrus disease globally. The bacterium colonizes the phloem sieve tubes, disrupting nutrient transport and causing root starvation, dieback, and small, bitter, lopsided fruit.",
+    "plain_language_symptoms": "Asymmetrical blotchy mottle chlorosis on leaves (yellowing pattern is unequal on either side of the midrib). Leaves become small, stiff, and upright ('rabbit ears'). Yellowing of entire shoots ('yellow dragon').",
+    "visual_signs": [
+      "Asymmetrical blotchy yellow leaf mottling",
+      "Thickened, leathery, upright leaves with corky veins",
+      "Dieback of terminal twigs and small misshapen lopsided fruit"
+    ],
+    "preventive_measures": [
+      "Plant exclusively certified disease-free citrus nursery stock propagated under insect-proof screen houses.",
+      "Install yellow sticky traps (1 trap per 10 trees) to monitor the Asian citrus psyllid (Diaphorina citri) vector.",
+      "Eradicate and burn confirmed infected trees immediately to eliminate the bacterial inoculum reservoir in the orchard."
+    ],
+    "immediate_non_chemical_management": [
+      "Rogue (uproot) and destroy infected trees; do not leave stumps that can sprout infected suckers.",
+      "Apply reflective silver plastic mulches in young plantings to repel flying psyllid vectors."
+    ],
+    "sanitation_and_irrigation": "Maintain optimal root health through balanced micronutrient fertigation (zinc, manganese, iron) to support unaffected trees.",
+    "chemical_treatment_status": "Vector Management Only (Pathogen Incurable)",
+    "chemical_guidance": {
+      "available": true,
+      "active_ingredient": "Imidacloprid 17.8% SL or Dimethoate 30% EC (Vector Control Only)",
+      "formulation_and_dosage": "Imidacloprid 17.8% SL @ 0.5 ml per liter of water (or soil drench in young non-bearing trees per label) OR Dimethoate 30% EC @ 1.5 ml per liter of water targeting Asian citrus psyllid flush emergence.",
+      "application_method": "Foliar spray targeted specifically at new vegetative flushes when psyllids reproduce. Direct spray to new feather flushes.",
+      "safety_precautions": "CRITICAL NOTICE: There is NO chemical cure for the Liberibacter bacterium inside infected citrus trees. Insecticides strictly manage the insect vector (Diaphorina citri) to prevent transmission to adjacent healthy trees. Highly toxic to bees; NEVER spray during bloom. Wear chemical-resistant nitrile gloves, protective eyewear, and respirator mask during application.",
+      "re_entry_interval": "48 hours after application",
+      "pre_harvest_interval": "15 days for Imidacloprid; 28 days for Dimethoate",
+      "disclaimer": "Chemical sprays manage the insect vector only; they cannot cure an already infected tree. Infected trees must be removed to protect the remaining grove."
+    },
+    "sources": [
+      {
+        "title": "ICAR-Central Citrus Research Institute (CCRI) - Citrus Greening Management Guidelines",
+        "official_url": "https://ccri.icar.gov.in",
+        "source_type": "ICAR National Institute",
+        "last_verified": "2024-05"
+      },
+      {
+        "title": "PPQS CIBRC - Registered Insecticides for Citrus Psyllid Control",
+        "official_url": "https://ppqs.gov.in/divisions/cib-rc/major-uses-of-pesticides",
+        "source_type": "Government Regulatory (PPQS/CIBRC)",
+        "last_verified": "2024-10"
+      }
+    ]
+  },
+  "Peach___Bacterial_spot": {
+    "class_name": "Peach___Bacterial_spot",
+    "crop": "Peach",
+    "disease_name": "Bacterial Spot (Shot Hole)",
+    "etiology": "Bacterial",
+    "causal_agent": "Xanthomonas arboricola pv. pruni (Bacterium)",
+    "overview": "Bacterial spot affects peach foliage and stone fruits, especially in sandy soils with windy, rainy spring seasons. The bacterium enters through stomata and sand-blast wounds, causing defoliation and fruit lesions.",
+    "plain_language_symptoms": "Water-soaked, angular, polygonal purple to dark brown spots along the leaf midrib and tips. As lesions dry, centers fall out, leaving a characteristic 'shot-hole' perforation with yellowed margins.",
+    "visual_signs": [
+      "Angular water-soaked polygonal lesions",
+      "Shot-hole perforated centers in leaves",
+      "Premature leaf drop and sunken gummy fruit pits"
+    ],
+    "preventive_measures": [
+      "Plant tolerant or resistant peach cultivars (e.g., Candor, Biscoe, Belle of Georgia).",
+      "Plant tree windbreaks around orchards on sandy soils to reduce windblown sand abrasion of young foliage.",
+      "Maintain balanced tree fertility; avoid excessive nitrogen that produces tender, susceptible shoot growth."
+    ],
+    "immediate_non_chemical_management": [
+      "Avoid orchard operations and cultivation when foliage is wet.",
+      "Prune and destroy cankered terminal shoots during winter dormant pruning."
+    ],
+    "sanitation_and_irrigation": "Avoid overhead sprinkler irrigation that splashes bacteria across the canopy. Use ground drip lines.",
+    "chemical_treatment_status": "Requires Expert Confirmation",
+    "chemical_guidance": {
+      "available": false,
+      "active_ingredient": null,
+      "formulation_and_dosage": null,
+      "application_method": null,
+      "safety_precautions": null,
+      "re_entry_interval": null,
+      "pre_harvest_interval": null,
+      "disclaimer": "A verified chemical recommendation is not available for this disease. Consult your local KVK or agricultural officer. Fungicides are completely ineffective against bacterial pathogens, and peach foliage is extremely prone to severe copper phytotoxicity (leaf burning and defoliation) during the growing season."
+    },
+    "sources": [
+      {
+        "title": "PPQS CIBRC Major Uses of Pesticides & ICAR-CITH Peach Guidelines",
+        "official_url": "https://ppqs.gov.in/divisions/cib-rc/major-uses-pesticides",
+        "source_type": "PPQS / CIBRC, Ministry of Agriculture & Farmers Welfare",
+        "last_verified": "Checked October 2024 / PPQS CIBRC Major Uses"
+      }
+    ]
+  },
+  "Peach___healthy": {
+    "class_name": "Peach___healthy",
+    "crop": "Peach",
+    "disease_name": "Healthy Peach Foliage",
+    "etiology": "Healthy",
+    "causal_agent": "None (Healthy tissue)",
+    "overview": "Healthy peach foliage features slender lanceolate leaves with gently undulating margins and glossy green blades, free of bacterial perforations, leaf curl, or chlorosis.",
+    "plain_language_symptoms": "Slender lanceolate leaves with glossy green sheen, clean intact margins, normal petiole glands, and complete absence of shot-holes, gumming, or curling.",
+    "visual_signs": [
+      "Slender vibrant green lanceolate foliage",
+      "Intact leaf blades without perforations",
+      "Vigorous shoot growth free of cankers"
+    ],
+    "preventive_measures": [
+      "Apply protective dormant copper or lime-sulfur spray strictly before spring bud swell if peach leaf curl (Taphrina deformans) is endemic in the district.",
+      "Maintain adequate soil drainage; peaches are highly sensitive to waterlogged root conditions.",
+      "Ensure proper annual pruning to maintain open-center vase canopy architecture."
+    ],
+    "immediate_non_chemical_management": [
+      "No disease mitigation required.",
+      "Continue standard drip irrigation and weed management."
+    ],
+    "sanitation_and_irrigation": "Maintain mulch and clean weed-free tree strips under the canopy.",
+    "chemical_treatment_status": "Inappropriate (Healthy Foliage)",
+    "chemical_guidance": {
+      "available": false,
+      "active_ingredient": null,
+      "formulation_and_dosage": null,
+      "application_method": null,
+      "safety_precautions": null,
+      "re_entry_interval": null,
+      "pre_harvest_interval": null,
+      "disclaimer": "Chemical treatment is strictly inappropriate for healthy plant foliage. Continue routine orchard scouting, balanced fertilization, and good water management."
+    },
+    "sources": [
+      {
+        "title": "ICAR-CITH Good Agricultural Practices for Peach Production",
+        "official_url": "https://cith.icar.gov.in",
+        "source_type": "ICAR National Institute",
+        "last_verified": "2024-06"
+      }
+    ]
+  },
+  "Pepper,_bell___Bacterial_spot": {
+    "class_name": "Pepper,_bell___Bacterial_spot",
+    "crop": "Pepper, bell",
+    "disease_name": "Bacterial Spot",
+    "etiology": "Bacterial",
+    "causal_agent": "Xanthomonas euvesicatoria species complex (Bacterium)",
+    "overview": "Bacterial spot is a damaging disease of bell peppers in warm, humid climates. The bacterium enters through leaf stomata and wounds, causing severe defoliation that exposes developing fruit to sunscald.",
+    "plain_language_symptoms": "Small, water-soaked, circular to irregular lesions that turn dark brown with chlorotic yellow halos. Severely infected leaves turn yellow and drop prematurely.",
+    "visual_signs": [
+      "Water-soaked dark brown spots with yellow halos",
+      "Cracked, blistered scab-like spots on fruit",
+      "Severe defoliation leaving exposed fruit"
+    ],
+    "preventive_measures": [
+      "Use certified disease-free, hot-water treated pepper seeds or certified transplants.",
+      "Plant bacterial spot-resistant pepper hybrids carrying Bs2 and Bs3 resistance genes.",
+      "Rotate fields out of solanaceous crops (pepper, tomato, potato, eggplant) for at least 2–3 years."
+    ],
+    "immediate_non_chemical_management": [
+      "Never work in or cultivate pepper fields while foliage is wet from dew or rain.",
+      "Remove and destroy heavily diseased plants in small-scale plantings to reduce splash inoculation."
+    ],
+    "sanitation_and_irrigation": "Switch entirely to drip irrigation under plastic mulch. Avoid overhead sprinkler irrigation.",
+    "chemical_treatment_status": "Requires Expert Confirmation",
+    "chemical_guidance": {
+      "available": false,
+      "active_ingredient": null,
+      "formulation_and_dosage": null,
+      "application_method": "Foliar chemical spraying is not verified for this specific crop-pathogen pair under current CIBRC registrations. Do not apply unverified chemical dosages.",
+      "safety_precautions": "Standard PPE advisory: Wear protective nitrile gloves, eye protection, and mask during field operations.",
+      "re_entry_interval": "N/A - No verified chemical treatment",
+      "pre_harvest_interval": "N/A - No verified chemical treatment",
+      "disclaimer": "A verified chemical recommendation is not available for this disease. Consult your local KVK or agricultural officer. Antibiotics (Streptomycin/Tetracycline) are NOT approved by CIBRC for bell pepper/chilli and are subject to regulatory restrictions on food crops to prevent antimicrobial resistance (AMR). Standalone Copper Oxychloride is registered for anthracnose/fruit rot, not bacterial spot in CIBRC."
+    },
+    "sources": [
+      {
+        "title": "PPQS CIBRC Major Uses & Ministry of Agriculture Regulatory Directives",
+        "official_url": "https://ppqs.gov.in/divisions/cib-rc/major-uses-pesticides",
+        "source_type": "PPQS / CIBRC, Ministry of Agriculture & Farmers Welfare",
+        "last_verified": "Checked October 2024 / PPQS CIBRC Major Uses"
+      }
+    ]
+  },
+  "Pepper,_bell___healthy": {
+    "class_name": "Pepper,_bell___healthy",
+    "crop": "Pepper, bell",
+    "disease_name": "Healthy Bell Pepper Foliage",
+    "etiology": "Healthy",
+    "causal_agent": "None (Healthy tissue)",
+    "overview": "Healthy bell pepper foliage shows glossy, dark green ovate leaves with sturdy petioles and uniform lamina, conducting active photosynthesis supporting flowering and bell fruit enlargement.",
+    "plain_language_symptoms": "Broad, smooth, rich green ovate leaves with distinct pinnate veins, crisp margins, and complete absence of necrotic spots, mosaic mottling, or curling.",
+    "visual_signs": [
+      "Smooth dark green ovate leaves",
+      "Intact leaf margins and vibrant stems",
+      "Clean petiole attachment with no lesions"
+    ],
+    "preventive_measures": [
+      "Ensure consistent soil moisture with drip irrigation to avoid blossom-end rot and plant water stress.",
+      "Apply balanced N-P-K fertilizer with adequate calcium and magnesium.",
+      "Scout weekly for aphids, thrips, and mites on leaf undersides."
+    ],
+    "immediate_non_chemical_management": [
+      "No disease mitigation required.",
+      "Maintain weed-free beds and black or reflective plastic mulch."
+    ],
+    "sanitation_and_irrigation": "Maintain drip fertigation and proper soil moisture monitoring.",
+    "chemical_treatment_status": "Inappropriate (Healthy Foliage)",
+    "chemical_guidance": {
+      "available": false,
+      "active_ingredient": null,
+      "formulation_and_dosage": null,
+      "application_method": null,
+      "safety_precautions": null,
+      "re_entry_interval": null,
+      "pre_harvest_interval": null,
+      "disclaimer": "Chemical treatment is strictly inappropriate for healthy plant foliage. Continue routine orchard scouting, balanced fertilization, and good water management."
+    },
+    "sources": [
+      {
+        "title": "ICAR-IIVR Production Technology for Bell Pepper",
+        "official_url": "https://iivr.icar.gov.in",
+        "source_type": "ICAR National Institute",
+        "last_verified": "2024-05"
+      }
+    ]
+  },
+  "Potato___Early_blight": {
+    "class_name": "Potato___Early_blight",
+    "crop": "Potato",
+    "disease_name": "Early Blight",
+    "etiology": "Fungal",
+    "causal_agent": "Alternaria solani (Fungus)",
+    "overview": "Early blight is a common foliar disease of potatoes affecting older lower leaves first. It develops during alternating wet and dry weather, particularly on senescing plants or crops stressed by nutrient deficits.",
+    "plain_language_symptoms": "Small brown-to-black circular to angular spots on older leaves, enlarging and developing characteristic concentric ring ridges resembling a target board with a yellow chlorotic halo.",
+    "visual_signs": [
+      "Concentric ring ridges ('target board' or bullseye lesions)",
+      "Dark brown necrotic spots surrounded by yellow chlorosis",
+      "Progressive upward leaf yellowing and blighting"
+    ],
+    "preventive_measures": [
+      "Plant certified, disease-free seed tubers.",
+      "Maintain adequate plant nitrogen and potassium levels; avoiding early canopy senescence greatly reduces susceptibility.",
+      "Rotate out of solanaceous crops for 2–3 years to reduce soilborne Alternaria spore load."
+    ],
+    "immediate_non_chemical_management": [
+      "Ensure irrigation occurs early in the morning so foliar surfaces dry completely before nightfall.",
+      "Avoid overhead sprinkler irrigation where possible; maintain drip or furrow irrigation."
+    ],
+    "sanitation_and_irrigation": "Destroy potato haulms (vines) post-harvest; bury or compost infected vines away from potato fields.",
+    "chemical_treatment_status": "Appropriate (Verified)",
+    "chemical_guidance": {
+      "available": true,
+      "active_ingredient": "Mancozeb 75% WP or Chlorothalonil 75% WP or Difenoconazole 25% EC",
+      "formulation_and_dosage": "Mancozeb 75% WP @ 2.0-2.5 g per liter of water (1.5-2.0 kg/ha in 500 L water) OR Chlorothalonil 75% WP @ 2.0 g/L OR Difenoconazole 25% EC @ 0.5 ml per liter of water.",
+      "application_method": "Foliar spray applied upon first appearance of target spots on lower foliage; repeat at 10-14 day intervals if weather remains warm and humid.",
+      "safety_precautions": "Wear personal protective equipment (gloves, goggles, mask). Rotate chemical classes (Mancozeb FRAC M03, Difenoconazole FRAC 3) to prevent resistance.",
+      "re_entry_interval": "24 hours after application",
+      "pre_harvest_interval": "14 days before tuber harvest",
+      "disclaimer": "Protectant fungicides must be applied before spores germinate; spray coverage on lower canopy leaves is essential."
+    },
+    "sources": [
+      {
+        "title": "ICAR-Central Potato Research Institute (CPRI) - Potato Disease Management",
+        "official_url": "https://cpri.icar.gov.in",
+        "source_type": "ICAR National Institute",
+        "last_verified": "2024-05"
+      },
+      {
+        "title": "PPQS CIBRC - Major Uses of Fungicides in Potato",
+        "official_url": "https://ppqs.gov.in/divisions/cib-rc/major-uses-of-pesticides",
+        "source_type": "Government Regulatory (PPQS/CIBRC)",
+        "last_verified": "2024-10"
+      }
+    ]
+  },
+  "Potato___Late_blight": {
+    "class_name": "Potato___Late_blight",
+    "crop": "Potato",
+    "disease_name": "Late Blight",
+    "etiology": "Oomycete",
+    "causal_agent": "Phytophthora infestans (Oomycete water mold)",
+    "overview": "Late blight is the most devastating disease of potatoes, capable of completely destroying entire potato canopies within a week during cool, wet, foggy conditions. It overwinters in infected seed tubers and cull piles.",
+    "plain_language_symptoms": "Large, irregular, water-soaked dark greenish-brown to purplish-black lesions that spread rapidly across leaves and stems. In high humidity, a delicate white downy cottony mold appears on leaf undersides.",
+    "visual_signs": [
+      "Rapidly expanding water-soaked purplish-black lesions",
+      "Delicate white downy fungal-like bloom on lower leaf surface",
+      "Petiole and stem collapse with foul rotting odor"
+    ],
+    "preventive_measures": [
+      "Plant strictly certified disease-free seed tubers verified free of late blight.",
+      "Eliminate and destroy cull piles and volunteer potato plants which serve as primary regional inoculum sources.",
+      "Plant late blight-resistant potato varieties (e.g., Kufri Girdhari, Kufri Himalini, Kufri Mohan)."
+    ],
+    "immediate_non_chemical_management": [
+      "Monitor local ICAR-CPRI / regional decision support systems (Indo-Blightcast) for blight alert warnings.",
+      "In small localized outbreaks, kill and bury infected vines immediately to prevent tuber infection by wash-down spores."
+    ],
+    "sanitation_and_irrigation": "Ensure high hill ridging (earthing-up) with 10–12 cm of soil covering tubers to prevent sporangia from washing into tubers. Discontinue overhead sprinkling.",
+    "chemical_treatment_status": "Appropriate (Verified)",
+    "chemical_guidance": {
+      "available": true,
+      "active_ingredient": "Mancozeb 75% WP (Preventive) OR Metalaxyl 8% + Mancozeb 64% WP (Systemic/Curative)",
+      "formulation_and_dosage": "Preventive: Mancozeb 75% WP @ 2.0-2.5 g per liter of water (2.0 kg/ha). Systemic at first blight forecast: Metalaxyl 8% + Mancozeb 64% WP @ 2.5 g per liter of water (2.0-2.5 kg/ha) OR Cymoxanil 8% + Mancozeb 64% WP @ 2.5 g/L.",
+      "application_method": "Apply preventive protectant spray before canopy closure. Apply systemic curative mix immediately upon first regional blight alert or earliest leaf lesion. Ensure thorough canopy wetting (600-800 L/ha).",
+      "safety_precautions": "Wear full PPE (respirator, waterproof gloves, eye protection). Do not apply systemic phenylamides (Metalaxyl) more than twice per season to prevent resistance selection.",
+      "re_entry_interval": "24 hours after application",
+      "pre_harvest_interval": "14 days before harvest for Metalaxyl-Mancozeb",
+      "disclaimer": "Late blight moves exponentially; delays in spray application during favorable weather (temperatures 12-22°C with >90% RH) can lead to total crop collapse."
+    },
+    "sources": [
+      {
+        "title": "ICAR-CPRI Technical Bulletin: Late Blight of Potato and Indo-Blightcast Model",
+        "official_url": "https://cpri.icar.gov.in",
+        "source_type": "ICAR National Institute",
+        "last_verified": "2024-05"
+      },
+      {
+        "title": "PPQS CIBRC - Approved Fungicides and Oomyceticides on Potato",
+        "official_url": "https://ppqs.gov.in/divisions/cib-rc/major-uses-of-pesticides",
+        "source_type": "Government Regulatory (PPQS/CIBRC)",
+        "last_verified": "2024-10"
+      }
+    ]
+  },
+  "Potato___healthy": {
+    "class_name": "Potato___healthy",
+    "crop": "Potato",
+    "disease_name": "Healthy Potato Foliage",
+    "etiology": "Healthy",
+    "causal_agent": "None (Healthy tissue)",
+    "overview": "Healthy potato foliage displays dense, dark green compound leaves supporting rapid photosynthetic assimilation to fuel stolon formation and tuber bulking.",
+    "plain_language_symptoms": "Compound pinnate leaves with bright green leaflets, firm petioles, crisp margins, and complete absence of water-soaked lesions, target rings, or viral leaf roll.",
+    "visual_signs": [
+      "Vigorous dark green compound foliage",
+      "Clean petioles and sturdy stems",
+      "Intact leaflet blades free of blights"
+    ],
+    "preventive_measures": [
+      "Maintain adequate hilling (earthing up) to protect growing tubers from light (greening) and potato tuber moth.",
+      "Scout fields weekly for aphids and Colorado potato beetles.",
+      "Ensure balanced potassium and phosphorus application to maximize tuber dry matter."
+    ],
+    "immediate_non_chemical_management": [
+      "No disease mitigation required.",
+      "Maintain uniform furrow or drip irrigation to prevent tuber cracking."
+    ],
+    "sanitation_and_irrigation": "Avoid saturated soil conditions; allow the topsoil to dry moderately between irrigations.",
+    "chemical_treatment_status": "Inappropriate (Healthy Foliage)",
+    "chemical_guidance": {
+      "available": false,
+      "active_ingredient": null,
+      "formulation_and_dosage": null,
+      "application_method": null,
+      "safety_precautions": null,
+      "re_entry_interval": null,
+      "pre_harvest_interval": null,
+      "disclaimer": "Chemical treatment is strictly inappropriate for healthy plant foliage. Continue routine orchard scouting, balanced fertilization, and good water management."
+    },
+    "sources": [
+      {
+        "title": "ICAR-CPRI Standard Operating Procedures for Potato Production",
+        "official_url": "https://cpri.icar.gov.in",
+        "source_type": "ICAR National Institute",
+        "last_verified": "2024-05"
+      }
+    ]
+  },
+  "Raspberry___healthy": {
+    "class_name": "Raspberry___healthy",
+    "crop": "Raspberry",
+    "disease_name": "Healthy Raspberry Foliage",
+    "etiology": "Healthy",
+    "causal_agent": "None (Healthy tissue)",
+    "overview": "Healthy raspberry foliage consists of compound leaves with serrated margins and silver-pubescent undersides, indicating healthy cane vigor and balanced root uptake.",
+    "plain_language_symptoms": "Pinnately compound leaves (3-5 leaflets) with sharply serrated margins, whitish-pubescent undersides, sturdy cane shoots, and absence of cane blight or rust spots.",
+    "visual_signs": [
+      "Compound serrated green leaves",
+      "Clean cane bark without purplish lesions",
+      "Vigorous primocane and floricane emergence"
+    ],
+    "preventive_measures": [
+      "Prune out spent floricanes immediately after fruit harvest to reduce spur blight inoculum.",
+      "Maintain trellis wire support to facilitate good airflow and sunlight interception.",
+      "Ensure raised planting beds to prevent Phytophthora root rot."
+    ],
+    "immediate_non_chemical_management": [
+      "No disease mitigation required.",
+      "Maintain organic wood chip mulch over row beds."
+    ],
+    "sanitation_and_irrigation": "Employ drip irrigation beneath mulch; avoid overhead watering.",
+    "chemical_treatment_status": "Inappropriate (Healthy Foliage)",
+    "chemical_guidance": {
+      "available": false,
+      "active_ingredient": null,
+      "formulation_and_dosage": null,
+      "application_method": null,
+      "safety_precautions": null,
+      "re_entry_interval": null,
+      "pre_harvest_interval": null,
+      "disclaimer": "Chemical treatment is strictly inappropriate for healthy plant foliage. Continue routine orchard scouting, balanced fertilization, and good water management."
+    },
+    "sources": [
+      {
+        "title": "National Horticulture Board (NHB) Caneberry Technical Guide",
+        "official_url": "http://nhb.gov.in",
+        "source_type": "Government Regulatory (NHB/MoA)",
+        "last_verified": "2024-04"
+      }
+    ]
+  },
+  "Soybean___healthy": {
+    "class_name": "Soybean___healthy",
+    "crop": "Soybean",
+    "disease_name": "Healthy Soybean Foliage",
+    "etiology": "Healthy",
+    "causal_agent": "None (Healthy tissue)",
+    "overview": "Healthy soybean foliage consists of trifoliate leaves with vibrant green, smooth leaflets, conducting symbiotic nitrogen fixation and photosynthetic pod filling.",
+    "plain_language_symptoms": "Trifoliate leaves with vibrant green, smooth leaflets, clean veins, and complete freedom from chlorotic mottling, rust pustules, or frog-eye spotting.",
+    "visual_signs": [
+      "Vibrant green trifoliate leaflets",
+      "Intact leaflet blades free of pustules or spots",
+      "Vigorous nodulated root systems and clean pods"
+    ],
+    "preventive_measures": [
+      "Practice crop rotation with non-legume crops (corn, sorghum) to break soilborne pathogen cycles.",
+      "Inoculate seeds with Bradyrhizobium japonicum to ensure robust biological nitrogen fixation.",
+      "Scout fields periodically for defoliating caterpillars and soybean aphids."
+    ],
+    "immediate_non_chemical_management": [
+      "No disease mitigation required.",
+      "Maintain weed control during early critical weed-free period (first 30-45 days)."
+    ],
+    "sanitation_and_irrigation": "Ensure proper surface drainage to avoid seedbed water stagnation.",
+    "chemical_treatment_status": "Inappropriate (Healthy Foliage)",
+    "chemical_guidance": {
+      "available": false,
+      "active_ingredient": null,
+      "formulation_and_dosage": null,
+      "application_method": null,
+      "safety_precautions": null,
+      "re_entry_interval": null,
+      "pre_harvest_interval": null,
+      "disclaimer": "Chemical treatment is strictly inappropriate for healthy plant foliage. Continue routine orchard scouting, balanced fertilization, and good water management."
+    },
+    "sources": [
+      {
+        "title": "ICAR-Indian Institute of Soybean Research (IISR) - Soybean Production Technology",
+        "official_url": "https://iisrindore.icar.gov.in",
+        "source_type": "ICAR National Institute",
+        "last_verified": "2024-06"
+      }
+    ]
+  },
+  "Squash___Powdery_mildew": {
+    "class_name": "Squash___Powdery_mildew",
+    "crop": "Squash",
+    "disease_name": "Squash Powdery Mildew",
+    "etiology": "Fungal",
+    "causal_agent": "Podosphaera xanthii (syn. Sphaerotheca fuliginea)",
+    "overview": "Powdery mildew is a common fungal disease of cucurbits. The fungus produces abundant white talcum-like conidia on upper and lower leaf surfaces, causing premature senescence of leaves and reducing squash yield and fruit sweetness.",
+    "plain_language_symptoms": "White powdery fungal spots and patches appearing on both upper and lower leaf surfaces, petioles, and stems. As colonies expand, leaves turn dull yellow, brown, and brittle, drying up completely.",
+    "visual_signs": [
+      "White powdery circular fungal colonies",
+      "Fungal growth on leaf petioles and undersides",
+      "Yellowing and crisp browning of older leaves"
+    ],
+    "preventive_measures": [
+      "Plant powdery mildew-resistant squash hybrids and cultivars.",
+      "Ensure wide plant spacing (1.5 to 2 meters between rows) to promote good air circulation through dense foliage.",
+      "Select sunny planting locations; shaded cucurbit leaves are significantly more susceptible to infection."
+    ],
+    "immediate_non_chemical_management": [
+      "Remove and bag heavily infected older basal leaves in early stages.",
+      "Avoid overhead sprinkler irrigation; apply water at ground level."
+    ],
+    "sanitation_and_irrigation": "Ensure drip irrigation. Destroy crop residue immediately after the final harvest.",
+    "chemical_treatment_status": "Requires Expert Confirmation",
+    "chemical_guidance": {
+      "available": false,
+      "active_ingredient": null,
+      "formulation_and_dosage": null,
+      "application_method": "Foliar chemical spraying is not verified for this specific crop-pathogen pair under current CIBRC registrations. Do not apply unverified chemical dosages.",
+      "safety_precautions": "Standard PPE advisory: Wear protective nitrile gloves, eye protection, and mask during field operations.",
+      "re_entry_interval": "N/A - No verified chemical treatment",
+      "pre_harvest_interval": "N/A - No verified chemical treatment",
+      "disclaimer": "A verified chemical recommendation is not available for this disease. Consult your local KVK or agricultural officer. Squash (Cucurbita pepo) does not possess an individual dedicated crop entry in CIBRC Major Uses (unlike cucumber and bottle gourd). Broad cucurbit extension guidelines exist, but crop-specific label registration requires local KVK verification."
+    },
+    "sources": [
+      {
+        "title": "PPQS CIBRC Major Uses of Fungicides (Cucurbitaceous Vegetables)",
+        "official_url": "https://ppqs.gov.in/divisions/cib-rc/major-uses-pesticides",
+        "source_type": "PPQS / CIBRC, Ministry of Agriculture & Farmers Welfare",
+        "last_verified": "Checked October 2024 / PPQS CIBRC Major Uses"
+      }
+    ]
+  },
+  "Strawberry___Leaf_scorch": {
+    "class_name": "Strawberry___Leaf_scorch",
+    "crop": "Strawberry",
+    "disease_name": "Strawberry Leaf Scorch",
+    "etiology": "Fungal",
+    "causal_agent": "Diplocarpon earlianum (Fungus)",
+    "overview": "Strawberry leaf scorch affects foliage, petioles, runners, and calyxes. The fungus overwinters on living infected leaves, releasing conidia and ascospores during spring and autumn rains, resulting in scorched foliar margins.",
+    "plain_language_symptoms": "Numerous small, irregular, purple to dark brownish-red blotches scattered across upper leaf surfaces. Unlike common leaf spot, scorch spots never develop white centers. Spots coalesce, making entire leaf margins look burned or scorched.",
+    "visual_signs": [
+      "Small irregular dark purple foliar spots without white centers",
+      "Leaves curling upward and appearing burned (scorched)",
+      "Dark brown necrotic lesions on fruit calyxes"
+    ],
+    "preventive_measures": [
+      "Plant certified disease-free strawberry runners or micro-propagated plugs.",
+      "Renovate matted strawberry beds immediately after harvest by mowing old foliage and incorporating fertilizer.",
+      "Maintain wide plant spacing and clean straw or plastic mulch to reduce leaf wetness duration."
+    ],
+    "immediate_non_chemical_management": [
+      "Hand-strip and destroy heavily scorched outer leaves during early spring growth.",
+      "Avoid overhead sprinkler irrigation; use under-mulch drip lines."
+    ],
+    "sanitation_and_irrigation": "Rake and compost mowed leaves during bed renovation. Ensure raised beds have excellent drainage.",
+    "chemical_treatment_status": "Requires Expert Confirmation",
+    "chemical_guidance": {
+      "available": false,
+      "active_ingredient": null,
+      "formulation_and_dosage": null,
+      "application_method": "Foliar chemical spraying is not verified for this specific crop-pathogen pair under current CIBRC registrations. Do not apply unverified chemical dosages.",
+      "safety_precautions": "Standard PPE advisory: Wear protective nitrile gloves, eye protection, and mask during field operations.",
+      "re_entry_interval": "N/A - No verified chemical treatment",
+      "pre_harvest_interval": "N/A - No verified chemical treatment",
+      "disclaimer": "A verified chemical recommendation is not available for this disease. Consult your local KVK or agricultural officer. Strawberry is a minor specialty crop in India with no dedicated CIBRC major use label claims for Leaf Scorch (Diplocarpon earlianum). Consult local horticulture extension officers for certified regional practices."
+    },
+    "sources": [
+      {
+        "title": "National Horticulture Board (NHB) & PPQS Registration Compendium",
+        "official_url": "https://ppqs.gov.in/divisions/cib-rc/major-uses-pesticides",
+        "source_type": "PPQS / CIBRC, Ministry of Agriculture & Farmers Welfare",
+        "last_verified": "Checked October 2024 / PPQS CIBRC Major Uses"
+      }
+    ]
+  },
+  "Strawberry___healthy": {
+    "class_name": "Strawberry___healthy",
+    "crop": "Strawberry",
+    "disease_name": "Healthy Strawberry Foliage",
+    "etiology": "Healthy",
+    "causal_agent": "None (Healthy tissue)",
+    "overview": "Healthy strawberry foliage displays trifoliate, coarsely serrated leaves with deep green color and sturdy runners, actively supporting crown vigor, floral initiation, and berry sizing.",
+    "plain_language_symptoms": "Trifoliate, coarsely serrated leaflets with deep green color, sturdy runners, and complete freedom from purple scorch spots, gray mold, or powdery mildew.",
+    "visual_signs": [
+      "Crisp deep green trifoliate leaflets",
+      "Sturdy erect petioles and clean crowns",
+      "Absence of leaf spots, scorch, or blights"
+    ],
+    "preventive_measures": [
+      "Plant on raised plasticulture beds with high organic matter and good drainage.",
+      "Scout weekly for two-spotted spider mites and root weevils.",
+      "Replace strawberry crowns and mother plants every 3–4 seasons to maintain production vigor."
+    ],
+    "immediate_non_chemical_management": [
+      "No disease mitigation required.",
+      "Maintain steady drip fertigation and weed-free alleyways."
+    ],
+    "sanitation_and_irrigation": "Maintain drip irrigation beneath black plastic mulch to keep foliage and berries completely off wet soil.",
+    "chemical_treatment_status": "Inappropriate (Healthy Foliage)",
+    "chemical_guidance": {
+      "available": false,
+      "active_ingredient": null,
+      "formulation_and_dosage": null,
+      "application_method": null,
+      "safety_precautions": null,
+      "re_entry_interval": null,
+      "pre_harvest_interval": null,
+      "disclaimer": "Chemical treatment is strictly inappropriate for healthy plant foliage. Continue routine orchard scouting, balanced fertilization, and good water management."
+    },
+    "sources": [
+      {
+        "title": "NHB Good Agricultural Practices for Strawberry Production",
+        "official_url": "http://nhb.gov.in",
+        "source_type": "Government Regulatory (NHB/MoA)",
+        "last_verified": "2024-04"
+      }
+    ]
+  },
+  "Tomato___Bacterial_spot": {
+    "class_name": "Tomato___Bacterial_spot",
+    "crop": "Tomato",
+    "disease_name": "Bacterial Spot",
+    "etiology": "Bacterial",
+    "causal_agent": "Xanthomonas perforans / Xanthomonas gardneri complex (Bacterium)",
+    "overview": "Bacterial spot is a widespread disease of field and greenhouse tomatoes in warm, rainy environments. The bacteria enter through stomata and sand/wind wounds, causing severe blighting, leaf drop, and fruit scabbing.",
+    "plain_language_symptoms": "Small, dark, greasy, water-soaked spots that become angular and brown with distinctive yellow halos. Severe infections cause extensive defoliation, sunscalded fruit, and black scabby spots on fruit.",
+    "visual_signs": [
+      "Angular water-soaked dark brown spots with yellow halos",
+      "Black raised blistered scabs on green fruit",
+      "Extensive lower canopy defoliation"
+    ],
+    "preventive_measures": [
+      "Use certified disease-free seed or hot-water treated seeds (50°C for 25 minutes).",
+      "Rotate out of solanaceous crops (tomato, pepper, potato, eggplant) for at least 2–3 years.",
+      "Stake and trellis tomato vines to keep foliage well above soil splash."
+    ],
+    "immediate_non_chemical_management": [
+      "Never cultivate or harvest fields when plants are wet from rain or morning dew.",
+      "Remove and bury heavily infected individual plants in small plantings."
+    ],
+    "sanitation_and_irrigation": "Use exclusively drip irrigation under plastic mulch. Strictly avoid overhead sprinkler irrigation that splashes bacteria between plants.",
+    "chemical_treatment_status": "Requires Expert Confirmation",
+    "chemical_guidance": {
+      "available": false,
+      "active_ingredient": null,
+      "formulation_and_dosage": null,
+      "application_method": "Foliar chemical spraying is not verified for this specific crop-pathogen pair under current CIBRC registrations. Do not apply unverified chemical dosages.",
+      "safety_precautions": "Standard PPE advisory: Wear protective nitrile gloves, eye protection, and mask during field operations.",
+      "re_entry_interval": "N/A - No verified chemical treatment",
+      "pre_harvest_interval": "N/A - No verified chemical treatment",
+      "disclaimer": "A verified chemical recommendation is not available for this disease. Consult your local KVK or agricultural officer. Streptocycline/antibiotics are NOT approved by CIBRC for tomato bacterial spot and their use on vegetables is restricted by government directives to curb antimicrobial resistance (AMR). Standard synthetic fungicides have zero efficacy against bacterial spot."
+    },
+    "sources": [
+      {
+        "title": "PPQS CIBRC Regulatory Notifications & ICAR-IIVR",
+        "official_url": "https://ppqs.gov.in/divisions/cib-rc/major-uses-pesticides",
+        "source_type": "PPQS / CIBRC, Ministry of Agriculture & Farmers Welfare",
+        "last_verified": "Checked October 2024 / PPQS CIBRC Major Uses"
+      }
+    ]
+  },
+  "Tomato___Early_blight": {
+    "class_name": "Tomato___Early_blight",
+    "crop": "Tomato",
+    "disease_name": "Early Blight",
+    "etiology": "Fungal",
+    "causal_agent": "Alternaria linariae (syn. Alternaria solani)",
+    "overview": "Early blight is one of the most common fungal diseases of tomato. The pathogen overwinters in crop debris and soil, infecting lower leaves through conidia splashed by rain or overhead watering.",
+    "plain_language_symptoms": "Circular brown-to-black spots with distinct concentric rings ('bullseye' or target board pattern) surrounded by chlorotic yellow halos, starting on the lowest foliage and progressing upward.",
+    "visual_signs": [
+      "Concentric ring 'bullseye' target lesions",
+      "Yellow chlorotic halo around dark necrotic spots",
+      "Stem collar rot and sunken dark fruit stem-end lesions"
+    ],
+    "preventive_measures": [
+      "Stake and prune tomato vines to maintain adequate airflow through the lower canopy.",
+      "Apply thick straw or black plastic mulch around the plant base to create a physical barrier preventing soil splash onto lower leaves.",
+      "Practice 3-year crop rotation with non-solanaceous crops (beans, corn, brassicas)."
+    ],
+    "immediate_non_chemical_management": [
+      "Prune off and discard the lowest 30 cm of leaves as plants mature to remove the primary splash infection zone.",
+      "Switch to drip irrigation to keep foliage completely dry."
+    ],
+    "sanitation_and_irrigation": "Remove and burn or compost all post-harvest crop vines. Avoid overhead irrigation.",
+    "chemical_treatment_status": "Appropriate (Verified)",
+    "chemical_guidance": {
+      "available": true,
+      "active_ingredient": "Mancozeb 75% WP or Chlorothalonil 75% WP or Azoxystrobin 23% SC",
+      "formulation_and_dosage": "Mancozeb 75% WP @ 2.0-2.5 g per liter of water (1.5-2.0 kg/ha in 500 L water) OR Chlorothalonil 75% WP @ 2.0 g/L OR Azoxystrobin 23% SC @ 1.0 ml/L.",
+      "application_method": "Foliar spray applied upon detection of early target lesions on lower foliage; repeat at 10-14 day intervals if weather remains warm and humid. Ensure thorough wetting of lower canopy.",
+      "safety_precautions": "Wear protective gear (gloves, goggles, mask). Rotate FRAC groups (Mancozeb Group M03, Azoxystrobin Group 11) to manage fungicide resistance.",
+      "re_entry_interval": "24 hours after application",
+      "pre_harvest_interval": "3 days for Mancozeb; 3 days for Azoxystrobin",
+      "disclaimer": "Fungicide applications prevent new spore germinations on healthy tissue; existing target lesions cannot be healed."
+    },
+    "sources": [
+      {
+        "title": "ICAR-IIVR - Tomato Integrated Disease Management",
+        "official_url": "https://iivr.icar.gov.in",
+        "source_type": "ICAR National Institute",
+        "last_verified": "2024-05"
+      },
+      {
+        "title": "PPQS CIBRC - Major Uses of Fungicides in Tomato",
+        "official_url": "https://ppqs.gov.in/divisions/cib-rc/major-uses-of-pesticides",
+        "source_type": "Government Regulatory (PPQS/CIBRC)",
+        "last_verified": "2024-10"
+      }
+    ]
+  },
+  "Tomato___Late_blight": {
+    "class_name": "Tomato___Late_blight",
+    "crop": "Tomato",
+    "disease_name": "Late Blight",
+    "etiology": "Oomycete",
+    "causal_agent": "Phytophthora infestans (Oomycete water mold)",
+    "overview": "Late blight is the most aggressive foliar and fruit disease of tomato, capable of killing mature plantings within days under cool (15-22°C), wet, foggy conditions. Sporangia are highly airborne and can travel miles.",
+    "plain_language_symptoms": "Large, irregular, water-soaked pale-to-dark olive-brown patches on leaves and stems. Under high humidity, a delicate white downy cottony mold appears on the underside of leaves. Fruits develop greasy dark brown blotches.",
+    "visual_signs": [
+      "Large irregular water-soaked dark olive lesions",
+      "Delicate white downy fungal-like bloom on leaf undersides",
+      "Greasy dark brown firm fruit rot and stem girdling"
+    ],
+    "preventive_measures": [
+      "Plant certified late blight-resistant tomato cultivars (e.g., Mountain Merit, Defiant PhR, Iron Lady).",
+      "Avoid planting tomatoes adjacent to or downwind from potato fields.",
+      "Destroy volunteer tomato and potato plants in the area before the growing season."
+    ],
+    "immediate_non_chemical_management": [
+      "In small home gardens or organic plots, immediately bag and uproot confirmed infected plants to stop airborne spore spread to neighboring crops.",
+      "Avoid overhead sprinkler irrigation; ensure rapid drainage."
+    ],
+    "sanitation_and_irrigation": "Use exclusively drip irrigation beneath mulch. Remove and burn all infected crop residue.",
+    "chemical_treatment_status": "Appropriate (Verified)",
+    "chemical_guidance": {
+      "available": true,
+      "active_ingredient": "Mancozeb 75% WP (Preventive) OR Cymoxanil 8% + Mancozeb 64% WP (Systemic/Curative)",
+      "formulation_and_dosage": "Preventive: Mancozeb 75% WP @ 2.0-2.5 g per liter of water (2.0 kg/ha). Systemic at first disease appearance: Cymoxanil 8% + Mancozeb 64% WP @ 2.5 g per liter of water OR Metalaxyl 8% + Mancozeb 64% WP @ 2.5 g/L.",
+      "application_method": "Apply preventive protectant spray prior to rainy spells. Apply systemic mix immediately when weather forecast indicates high blight risk (cool, continuous rain). Re-apply every 7-10 days under active disease pressure.",
+      "safety_precautions": "Wear personal protective equipment (respirator, goggles, gloves, apron). Do not exceed registered seasonal limits for phenylamide fungicides.",
+      "re_entry_interval": "24 hours after application",
+      "pre_harvest_interval": "3 days for Mancozeb; 7 days for Cymoxanil-Mancozeb",
+      "disclaimer": "Late blight progresses aggressively; curative sprays are only effective if applied at the earliest detection (less than 1% foliar damage)."
+    },
+    "sources": [
+      {
+        "title": "ICAR-IIVR Tomato Crop Protection Bulletin",
+        "official_url": "https://iivr.icar.gov.in",
+        "source_type": "ICAR National Institute",
+        "last_verified": "2024-05"
+      },
+      {
+        "title": "PPQS CIBRC - Approved Oomyceticides on Tomato",
+        "official_url": "https://ppqs.gov.in/divisions/cib-rc/major-uses-of-pesticides",
+        "source_type": "Government Regulatory (PPQS/CIBRC)",
+        "last_verified": "2024-10"
+      }
+    ]
+  },
+  "Tomato___Leaf_Mold": {
+    "class_name": "Tomato___Leaf_Mold",
+    "crop": "Tomato",
+    "disease_name": "Leaf Mold",
+    "etiology": "Fungal",
+    "causal_agent": "Passalora fulva (syn. Cladosporium fulvum / Fulvia fulva)",
+    "overview": "Tomato leaf mold is predominantly a greenhouse and high-tunnel disease, flourishing in environments with high relative humidity (>85%) and moderate temperatures (21–24°C). It overwinters in greenhouse structures and seed.",
+    "plain_language_symptoms": "Pale green to yellowish indistinct spots on the upper leaf surface, matching olive-green to velvety brown dense mold growth on the lower leaf surface. Severely infected leaves turn yellow, curl, and drop.",
+    "visual_signs": [
+      "Pale yellowish indistinct patches on upper leaf surface",
+      "Olive-green to velvety brown mold growth on lower leaf surface",
+      "Upward leaf curling and defoliation progressing upward"
+    ],
+    "preventive_measures": [
+      "Select leaf mold-resistant tomato varieties carrying Cf resistance genes.",
+      "Ventilate greenhouses and operate horizontal airflow fans to keep relative humidity strictly below 85%.",
+      "Space plants generously and prune lower foliage to promote air circulation through the canopy."
+    ],
+    "immediate_non_chemical_management": [
+      "Open ridge and sidewall greenhouse vents early in the morning to purge night humidity.",
+      "Strip off heavily molded lower leaves and carry them out of the greenhouse in closed bags."
+    ],
+    "sanitation_and_irrigation": "Heat greenhouse air slightly when venting on humid evenings to lower relative humidity. Water exclusively via ground drip lines.",
+    "chemical_treatment_status": "Requires Expert Confirmation",
+    "chemical_guidance": {
+      "available": false,
+      "active_ingredient": null,
+      "formulation_and_dosage": null,
+      "application_method": "Foliar chemical spraying is not verified for this specific crop-pathogen pair under current CIBRC registrations. Do not apply unverified chemical dosages.",
+      "safety_precautions": "Standard PPE advisory: Wear protective nitrile gloves, eye protection, and mask during field operations.",
+      "re_entry_interval": "N/A - No verified chemical treatment",
+      "pre_harvest_interval": "N/A - No verified chemical treatment",
+      "disclaimer": "A verified chemical recommendation is not available for this disease. Consult your local KVK or agricultural officer. Tomato leaf mold (Passalora fulva) is primarily a greenhouse/protected cultivation pathogen and is not an approved registered major use label target on CIBRC labels (which cover Early Blight, Late Blight, and Buckeye Rot)."
+    },
+    "sources": [
+      {
+        "title": "PPQS CIBRC Major Uses of Fungicides (Tomato Section) & ICAR-IIVR",
+        "official_url": "https://ppqs.gov.in/divisions/cib-rc/major-uses-pesticides",
+        "source_type": "PPQS / CIBRC, Ministry of Agriculture & Farmers Welfare",
+        "last_verified": "Checked October 2024 / PPQS CIBRC Major Uses"
+      }
+    ]
+  },
+  "Tomato___Septoria_leaf_spot": {
+    "class_name": "Tomato___Septoria_leaf_spot",
+    "crop": "Tomato",
+    "disease_name": "Septoria Leaf Spot",
+    "etiology": "Fungal",
+    "causal_agent": "Septoria lycopersici (Fungus)",
+    "overview": "Septoria leaf spot is a destructive foliar disease of tomato. It overwinters in solanaceous weed hosts and tomato crop debris, spreading via rain splash from the soil surface to lower leaves.",
+    "plain_language_symptoms": "Numerous small (2-3 mm), circular spots with dark brown margins and sunken light gray or tan centers. Tiny black specks (pycnidia) are clearly visible inside the center of mature spots.",
+    "visual_signs": [
+      "Small circular spots with dark brown margins and light gray centers",
+      "Minute black pepper-like dots (pycnidia) in spot centers",
+      "Extensive progressive lower leaf yellowing and leaf drop"
+    ],
+    "preventive_measures": [
+      "Apply thick straw, compost, or plastic mulch around the plant base to eliminate soil-splash infection.",
+      "Stake and prune tomato vines to keep all foliage off the soil surface.",
+      "Practice 2- to 3-year crop rotation out of solanaceous crops."
+    ],
+    "immediate_non_chemical_management": [
+      "Prune and dispose of lower leaves showing initial Septoria spotting.",
+      "Ensure foliage remains dry; avoid evening irrigation."
+    ],
+    "sanitation_and_irrigation": "Discontinue overhead sprinkling; water strictly via root-zone drip lines. Remove and burn all post-harvest vines.",
+    "chemical_treatment_status": "Requires Expert Confirmation",
+    "chemical_guidance": {
+      "available": false,
+      "active_ingredient": null,
+      "formulation_and_dosage": null,
+      "application_method": "Foliar chemical spraying is not verified for this specific crop-pathogen pair under current CIBRC registrations. Do not apply unverified chemical dosages.",
+      "safety_precautions": "Standard PPE advisory: Wear protective nitrile gloves, eye protection, and mask during field operations.",
+      "re_entry_interval": "N/A - No verified chemical treatment",
+      "pre_harvest_interval": "N/A - No verified chemical treatment",
+      "disclaimer": "A verified chemical recommendation is not available for this disease. Consult your local KVK or agricultural officer. Septoria leaf spot (Septoria lycopersici) is not an approved registered label target on CIBRC major uses labels for tomato in India. Consult your local KVK for verified localized fungicides."
+    },
+    "sources": [
+      {
+        "title": "PPQS CIBRC Major Uses of Fungicides (Tomato Section)",
+        "official_url": "https://ppqs.gov.in/divisions/cib-rc/major-uses-pesticides",
+        "source_type": "PPQS / CIBRC, Ministry of Agriculture & Farmers Welfare",
+        "last_verified": "Checked October 2024 / PPQS CIBRC Major Uses"
+      }
+    ]
+  },
+  "Tomato___Spider_mites Two-spotted_spider_mite": {
+    "class_name": "Tomato___Spider_mites Two-spotted_spider_mite",
+    "crop": "Tomato",
+    "disease_name": "Two-Spotted Spider Mite Damage",
+    "etiology": "Acarid Pest (Mite)",
+    "causal_agent": "Tetranychus urticae (Arachnid mite pest)",
+    "overview": "Two-spotted spider mites are tiny arachnid pests (not fungi or bacteria) that feed by piercing leaf cells and sucking out chlorophyll. They proliferate rapidly under hot (>30°C), dry, dusty conditions and cause leaf bronzing.",
+    "plain_language_symptoms": "Fine yellow or white stippling (speckling) on the upper leaf surface. As colonies multiply, fine silken webbing coats leaves and growing tips, causing foliage to bronze, curl, and desiccate.",
+    "visual_signs": [
+      "Fine yellow-white foliar stippling / speckling",
+      "Delicate silken webbing on leaf undersides and terminal shoots",
+      "Leaf bronzing, desiccation, and premature drop"
+    ],
+    "preventive_measures": [
+      "Avoid broad-spectrum pyrethroid and organophosphate insecticide sprays that kill natural predatory mites and cause spider mite flare-ups.",
+      "Keep field borders and road lanes watered or vegetated to minimize dust deposition on tomato leaves.",
+      "Conserve or release predatory phytoseiid mites (e.g., Phytoseiulus persimilis, Neoseiulus californicus)."
+    ],
+    "immediate_non_chemical_management": [
+      "Wash foliage with strong water sprays to dislodge mite colonies and destroy web micro-habitats.",
+      "Prune out heavily webbed terminal branches in early hotspot infestations."
+    ],
+    "sanitation_and_irrigation": "Ensure regular, adequate drip irrigation; drought-stressed tomato plants are preferred hosts for rapid mite reproduction.",
+    "chemical_treatment_status": "Appropriate (Acaricide / Miticide Only)",
+    "chemical_guidance": {
+      "available": true,
+      "active_ingredient": "Spiromesifen 22.9% SC or Propergite 57% EC (Acaricide)",
+      "formulation_and_dosage": "Spiromesifen 22.9% SC @ 1.0 ml per liter of water (500 ml/ha) OR Propergite 57% EC @ 2.0 ml per liter of water (1.0 L/ha).",
+      "application_method": "Foliar spray applied upon first detection of stippling and webbing on leaf undersides. Use high pressure and fine nozzles directed toward leaf undersides. Fungicides have ZERO effect on spider mites.",
+      "safety_precautions": "CRITICAL NOTICE: Fungicides do not kill mites. Use strictly verified acaricides. Wear protective gloves, respirator, and goggles. Avoid application during bloom to protect pollinators.",
+      "re_entry_interval": "24 hours after application",
+      "pre_harvest_interval": "3 days for Spiromesifen; 5 days for Propergite",
+      "disclaimer": "Mites develop rapid resistance to acaricides; never apply the same mode of action more than twice consecutively."
+    },
+    "sources": [
+      {
+        "title": "PPQS CIBRC - Major Uses of Acaricides / Insecticides on Tomato",
+        "official_url": "https://ppqs.gov.in/divisions/cib-rc/major-uses-of-pesticides",
+        "source_type": "Government Regulatory (PPQS/CIBRC)",
+        "last_verified": "2024-10"
+      },
+      {
+        "title": "ICAR-IIVR Integrated Pest Management for Tomato Pests",
+        "official_url": "https://iivr.icar.gov.in",
+        "source_type": "ICAR National Institute",
+        "last_verified": "2024-05"
+      }
+    ]
+  },
+  "Tomato___Target_Spot": {
+    "class_name": "Tomato___Target_Spot",
+    "crop": "Tomato",
+    "disease_name": "Target Spot",
+    "etiology": "Fungal",
+    "causal_agent": "Corynespora cassiicola (Fungus)",
+    "overview": "Target spot affects leaves, stems, and fruit of tomatoes in warm, humid tropical and subtropical regions. Unlike early blight, target spot frequently attacks upper and middle canopy foliage as well as fruit.",
+    "plain_language_symptoms": "Pinpoint water-soaked lesions enlarging into circular brown spots with light tan centers and dark concentric rings. Lesions often have yellow halos and can cause extensive leaf blighting.",
+    "visual_signs": [
+      "Circular brown spots with light centers and dark concentric rings",
+      "Lesions across both upper and lower canopy foliage",
+      "Sunken circular brown target-pattern lesions on green fruit"
+    ],
+    "preventive_measures": [
+      "Ensure generous row spacing and prune suckers to maximize airflow through the plant canopy.",
+      "Eliminate alternative weed hosts (e.g., wild poinsettia, commelina) around field margins.",
+      "Avoid overhead sprinkler irrigation; maintain clean ground drip lines."
+    ],
+    "immediate_non_chemical_management": [
+      "Prune and discard initial symptomatic leaves to slow progression through upper canopy.",
+      "Ensure proper row orientation relative to prevailing winds."
+    ],
+    "sanitation_and_irrigation": "Disinfect trellis stakes and string between crop cycles. Destroy old vines immediately post-harvest.",
+    "chemical_treatment_status": "Requires Expert Confirmation",
+    "chemical_guidance": {
+      "available": false,
+      "active_ingredient": null,
+      "formulation_and_dosage": null,
+      "application_method": "Foliar chemical spraying is not verified for this specific crop-pathogen pair under current CIBRC registrations. Do not apply unverified chemical dosages.",
+      "safety_precautions": "Standard PPE advisory: Wear protective nitrile gloves, eye protection, and mask during field operations.",
+      "re_entry_interval": "N/A - No verified chemical treatment",
+      "pre_harvest_interval": "N/A - No verified chemical treatment",
+      "disclaimer": "A verified chemical recommendation is not available for this disease. Consult your local KVK or agricultural officer. Target spot (Corynespora cassiicola) does not have an approved crop-specific registered label claim for tomato under CIBRC in India. Consult your local KVK or agricultural officer."
+    },
+    "sources": [
+      {
+        "title": "PPQS CIBRC Major Uses of Fungicides (Tomato Section)",
+        "official_url": "https://ppqs.gov.in/divisions/cib-rc/major-uses-pesticides",
+        "source_type": "PPQS / CIBRC, Ministry of Agriculture & Farmers Welfare",
+        "last_verified": "Checked October 2024 / PPQS CIBRC Major Uses"
+      }
+    ]
+  },
+  "Tomato___Tomato_Yellow_Leaf_Curl_Virus": {
+    "class_name": "Tomato___Tomato_Yellow_Leaf_Curl_Virus",
+    "crop": "Tomato",
+    "disease_name": "Tomato Yellow Leaf Curl Virus (TYLCV)",
+    "etiology": "Viral / Vector-Borne",
+    "causal_agent": "Tomato yellow leaf curl virus (Begomovirus transmitted by Bemisia tabaci whiteflies)",
+    "overview": "TYLCV is a devastating begomovirus that causes extreme stunting and complete floral abortion. It is transmitted persistently by the silverleaf whitefly (Bemisia tabaci) and is NOT seedborne or mechanically transmitted.",
+    "plain_language_symptoms": "Severe plant stunting with erect bushy growth, pronounced upward cupping and curling of leaflet margins, chlorotic (yellow) leaflet borders, and severe reduction in leaf blade size.",
+    "visual_signs": [
+      "Upward cupping and curling of leaflet margins",
+      "Bright yellow chlorosis on leaf margins and interveinal areas",
+      "Severe bush-like stunting with flower drop and no fruit set"
+    ],
+    "preventive_measures": [
+      "Plant TYLCV-resistant tomato hybrids carrying Ty-1, Ty-2, or Ty-3 resistance genes.",
+      "Install 50-mesh insect-proof nylon netting on nursery beds and greenhouse vents to exclude whitefly vectors.",
+      "Use reflective silver plastic mulches in fields to disorient and repel flying whiteflies during the critical first 30 days."
+    ],
+    "immediate_non_chemical_management": [
+      "Install yellow sticky traps (1 trap per 20 sq meters) to monitor and mass-trap adult whitefly populations.",
+      "Rogue (uproot) and destroy virus-infected plants immediately in sealed bags to remove the field virus reservoir."
+    ],
+    "sanitation_and_irrigation": "Maintain a strict 2-month host-free period between tomato crops. Eliminate alternate weed hosts (Datura, Malva, Solanum nigrum).",
+    "chemical_treatment_status": "Vector Management Only (Virus Incurable)",
+    "chemical_guidance": {
+      "available": true,
+      "active_ingredient": "Imidacloprid 17.8% SL or Thiamethoxam 25% WG (Whitefly Vector Control Only)",
+      "formulation_and_dosage": "Imidacloprid 17.8% SL @ 0.3 ml per liter of water (150 ml/ha in 500 L water) OR Thiamethoxam 25% WG @ 0.3 g per liter of water (150-200 g/ha).",
+      "application_method": "Foliar spray directed to the undersides of leaves where whitefly nymphs and adults congregate. Apply in early morning when whiteflies are sluggish.",
+      "safety_precautions": "CRITICAL NOTICE: Pesticides DO NOT cure the virus. Viral infections replicate within the plant genome and are incurable once contracted. Chemical sprays strictly manage the insect vector (Bemisia tabaci) to suppress further field transmission. Toxic to bees; do not spray during bloom. Wear protective nitrile gloves, eye goggles, and respirator mask during application.",
+      "re_entry_interval": "24 hours after application",
+      "pre_harvest_interval": "3 days for Imidacloprid; 5 days for Thiamethoxam",
+      "disclaimer": "Chemical sprays manage the whitefly vector only; they cannot cure an already infected plant. Rogue out and burn heavily symptomatic plants."
+    },
+    "sources": [
+      {
+        "title": "ICAR-IIVR Tomato Pest and Vector Management Bulletin",
+        "official_url": "https://iivr.icar.gov.in",
+        "source_type": "ICAR National Institute",
+        "last_verified": "2024-05"
+      },
+      {
+        "title": "PPQS CIBRC - Approved Insecticides for Whitefly Control on Tomato",
+        "official_url": "https://ppqs.gov.in/divisions/cib-rc/major-uses-of-pesticides",
+        "source_type": "Government Regulatory (PPQS/CIBRC)",
+        "last_verified": "2024-10"
+      }
+    ]
+  },
+  "Tomato___Tomato_mosaic_virus": {
+    "class_name": "Tomato___Tomato_mosaic_virus",
+    "crop": "Tomato",
+    "disease_name": "Tomato Mosaic Virus (ToMV)",
+    "etiology": "Viral / Mechanically Transmitted",
+    "causal_agent": "Tomato mosaic virus (Tobamovirus)",
+    "overview": "Tomato mosaic virus is an extremely stable and infectious tobamovirus. It is transmitted mechanically with remarkable ease through hands, pruning shears, clothing, contaminated seed, and plant-to-plant contact.",
+    "plain_language_symptoms": "Mottled light and dark green mosaic patterns on leaves, leaf distortion (narrow, strap-like, or 'shoestring' appearance), stunted growth, and internal brown browning of fruit walls.",
+    "visual_signs": [
+      "Light and dark green blistered foliar mosaic",
+      "Distorted, fern-like or shoestring leaflets",
+      "Stunted vegetative growth and brown fruit necrosis"
+    ],
+    "preventive_measures": [
+      "Use certified virus-free seed or soak seeds in 10% trisodium phosphate (TSP) for 30 minutes, followed by thorough washing.",
+      "Plant ToMV-resistant tomato hybrids carrying Tm-2 or Tm-2^2 resistance genes.",
+      "Prohibit tobacco use (smoking, chewing) near tomato nurseries or greenhouses, as tobacco products frequently carry active tobamoviruses."
+    ],
+    "immediate_non_chemical_management": [
+      "Dip hands and pruning tools in nonfat dry milk (20% solution) or 10% TSP between plants to neutralize virus virions on contact.",
+      "Immediately rogue and carefully bag and destroy infected plants; avoid touching healthy plants after handling symptomatic ones."
+    ],
+    "sanitation_and_irrigation": "Wash and disinfect all greenhouse trays, stakes, and pruning knives in 10% sodium hypochlorite before re-use.",
+    "chemical_treatment_status": "Inappropriate (Viral Infection)",
+    "chemical_guidance": {
+      "available": false,
+      "active_ingredient": null,
+      "formulation_and_dosage": null,
+      "application_method": null,
+      "safety_precautions": null,
+      "re_entry_interval": null,
+      "pre_harvest_interval": null,
+      "disclaimer": "Chemical treatment is strictly inappropriate. A verified chemical recommendation is not available for this disease. Consult your local KVK or agricultural officer. Chemical pesticides do not cure viral infections. Tobamoviruses are non-cellular infectious viral proteins replicating inside host cells and cannot be cured with foliar chemical sprays. Sanitation, seed health, and rogueing infected plants are the only verified solutions."
+    },
+    "sources": [
+      {
+        "title": "ICAR-IIVR Solanaceous Viral Disease Management Technical Guide",
+        "official_url": "https://iivr.icar.gov.in",
+        "source_type": "ICAR National Institute",
+        "last_verified": "2024-05"
+      },
+      {
+        "title": "World Vegetable Center (AVRDC) - Tomato Mosaic Virus Factsheet",
+        "official_url": "https://avrdc.org",
+        "source_type": "International Botanical Extension",
+        "last_verified": "2024-03"
+      }
+    ]
+  },
+  "Tomato___healthy": {
+    "class_name": "Tomato___healthy",
+    "crop": "Tomato",
+    "disease_name": "Healthy Tomato Foliage",
+    "etiology": "Healthy",
+    "causal_agent": "None (Healthy tissue)",
+    "overview": "Healthy tomato foliage exhibits deep green compound leaves with glandular hairs, actively transpirating and photosynthesizing to fuel flower truss development and fruit expansion.",
+    "plain_language_symptoms": "Vigorous, dark green compound leaves with glandular trichomes (hairs), crisp margins, sturdy stems, and complete freedom from necrotic spots, blights, or viral mosaic.",
+    "visual_signs": [
+      "Deep green compound leaves with prominent trichomes",
+      "Sturdy petioles and crisp leaflet margins",
+      "Absence of chlorosis, necrosis, or foliar distortion"
+    ],
+    "preventive_measures": [
+      "Stake and trellis tomato plants to promote optimal canopy aeration and sun penetration.",
+      "Prune lower suckers regularly and remove any touching soil.",
+      "Ensure balanced drip fertigation with adequate calcium to prevent blossom-end rot."
+    ],
+    "immediate_non_chemical_management": [
+      "No disease mitigation required.",
+      "Maintain consistent soil moisture under plastic or organic mulch."
+    ],
+    "sanitation_and_irrigation": "Maintain dedicated drip irrigation beneath black plastic mulch to keep soil moisture uniform and foliage dry.",
+    "chemical_treatment_status": "Inappropriate (Healthy Foliage)",
+    "chemical_guidance": {
+      "available": false,
+      "active_ingredient": null,
+      "formulation_and_dosage": null,
+      "application_method": null,
+      "safety_precautions": null,
+      "re_entry_interval": null,
+      "pre_harvest_interval": null,
+      "disclaimer": "Chemical treatment is strictly inappropriate for healthy plant foliage. Continue routine orchard scouting, balanced fertilization, and good water management."
+    },
+    "sources": [
+      {
+        "title": "ICAR-IIVR Good Agricultural Practices for Tomato Cultivation",
+        "official_url": "https://iivr.icar.gov.in",
+        "source_type": "ICAR National Institute",
+        "last_verified": "2024-05"
+      }
+    ]
+  }
+}

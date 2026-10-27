@@ -1,0 +1,39 @@
+class_id,class_name,crop,disease_or_status,category,train_image_count,valid_image_count,total_image_count,selected_for_project,reason
+1,Apple___Apple_scab,Apple,Apple scab,Diseased,2016,504,2520,YES,Included to support multi-crop healthy and disease classification using all actual dataset classes.
+2,Apple___Black_rot,Apple,Black rot,Diseased,1987,497,2484,YES,Included to support multi-crop healthy and disease classification using all actual dataset classes.
+3,Apple___Cedar_apple_rust,Apple,Cedar apple rust,Diseased,1760,440,2200,YES,Included to support multi-crop healthy and disease classification using all actual dataset classes.
+4,Apple___healthy,Apple,healthy,Healthy,2008,502,2510,YES,Included to support multi-crop healthy and disease classification using all actual dataset classes.
+5,Blueberry___healthy,Blueberry,healthy,Healthy,1816,454,2270,YES,Included to support multi-crop healthy and disease classification using all actual dataset classes.
+6,Cherry_(including_sour)___healthy,Cherry (including sour),healthy,Healthy,1826,456,2282,YES,Included to support multi-crop healthy and disease classification using all actual dataset classes.
+7,Cherry_(including_sour)___Powdery_mildew,Cherry (including sour),Powdery mildew,Diseased,1683,421,2104,YES,Included to support multi-crop healthy and disease classification using all actual dataset classes.
+8,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,Corn (maize),Cercospora leaf spot Gray leaf spot,Diseased,1642,410,2052,YES,Included to support multi-crop healthy and disease classification using all actual dataset classes.
+9,Corn_(maize)___Common_rust_,Corn (maize),Common rust,Diseased,1907,477,2384,YES,Included to support multi-crop healthy and disease classification using all actual dataset classes.
+10,Corn_(maize)___healthy,Corn (maize),healthy,Healthy,1859,465,2324,YES,Included to support multi-crop healthy and disease classification using all actual dataset classes.
+11,Corn_(maize)___Northern_Leaf_Blight,Corn (maize),Northern Leaf Blight,Diseased,1908,477,2385,YES,Included to support multi-crop healthy and disease classification using all actual dataset classes.
+12,Grape___Black_rot,Grape,Black rot,Diseased,1888,472,2360,YES,Included to support multi-crop healthy and disease classification using all actual dataset classes.
+13,Grape___Esca_(Black_Measles),Grape,Esca (Black Measles),Diseased,1920,480,2400,YES,Included to support multi-crop healthy and disease classification using all actual dataset classes.
+14,Grape___healthy,Grape,healthy,Healthy,1692,423,2115,YES,Included to support multi-crop healthy and disease classification using all actual dataset classes.
+15,Grape___Leaf_blight_(Isariopsis_Leaf_Spot),Grape,Leaf blight (Isariopsis Leaf Spot),Diseased,1722,430,2152,YES,Included to support multi-crop healthy and disease classification using all actual dataset classes.
+16,Orange___Haunglongbing_(Citrus_greening),Orange,Haunglongbing (Citrus greening),Diseased,2010,503,2513,YES,Included to support multi-crop healthy and disease classification using all actual dataset classes.
+17,Peach___Bacterial_spot,Peach,Bacterial spot,Diseased,1838,459,2297,YES,Included to support multi-crop healthy and disease classification using all actual dataset classes.
+18,Peach___healthy,Peach,healthy,Healthy,1728,432,2160,YES,Included to support multi-crop healthy and disease classification using all actual dataset classes.
+19,"Pepper,_bell___Bacterial_spot","Pepper, bell",Bacterial spot,Diseased,1913,478,2391,YES,Included to support multi-crop healthy and disease classification using all actual dataset classes.
+20,"Pepper,_bell___healthy","Pepper, bell",healthy,Healthy,1988,497,2485,YES,Included to support multi-crop healthy and disease classification using all actual dataset classes.
+21,Potato___Early_blight,Potato,Early blight,Diseased,1939,485,2424,YES,Included to support multi-crop healthy and disease classification using all actual dataset classes.
+22,Potato___healthy,Potato,healthy,Healthy,1824,456,2280,YES,Included to support multi-crop healthy and disease classification using all actual dataset classes.
+23,Potato___Late_blight,Potato,Late blight,Diseased,1939,485,2424,YES,Included to support multi-crop healthy and disease classification using all actual dataset classes.
+24,Raspberry___healthy,Raspberry,healthy,Healthy,1781,445,2226,YES,Included to support multi-crop healthy and disease classification using all actual dataset classes.
+25,Soybean___healthy,Soybean,healthy,Healthy,2022,505,2527,YES,Included to support multi-crop healthy and disease classification using all actual dataset classes.
+26,Squash___Powdery_mildew,Squash,Powdery mildew,Diseased,1736,434,2170,YES,Included to support multi-crop healthy and disease classification using all actual dataset classes.
+27,Strawberry___healthy,Strawberry,healthy,Healthy,1824,456,2280,YES,Included to support multi-crop healthy and disease classification using all actual dataset classes.
+28,Strawberry___Leaf_scorch,Strawberry,Leaf scorch,Diseased,1774,444,2218,YES,Included to support multi-crop healthy and disease classification using all actual dataset classes.
+29,Tomato___Bacterial_spot,Tomato,Bacterial spot,Diseased,1702,425,2127,YES,Included to support multi-crop healthy and disease classification using all actual dataset classes.
+30,Tomato___Early_blight,Tomato,Early blight,Diseased,1920,480,2400,YES,Included to support multi-crop healthy and disease classification using all actual dataset classes.
+31,Tomato___healthy,Tomato,healthy,Healthy,1926,481,2407,YES,Included to support multi-crop healthy and disease classification using all actual dataset classes.
+32,Tomato___Late_blight,Tomato,Late blight,Diseased,1851,463,2314,YES,Included to support multi-crop healthy and disease classification using all actual dataset classes.
+33,Tomato___Leaf_Mold,Tomato,Leaf Mold,Diseased,1882,470,2352,YES,Included to support multi-crop healthy and disease classification using all actual dataset classes.
+34,Tomato___Septoria_leaf_spot,Tomato,Septoria leaf spot,Diseased,1745,436,2181,YES,Included to support multi-crop healthy and disease classification using all actual dataset classes.
+35,Tomato___Spider_mites Two-spotted_spider_mite,Tomato,Spider mites Two-spotted spider mite,Diseased,1741,435,2176,YES,Included to support multi-crop healthy and disease classification using all actual dataset classes.
+36,Tomato___Target_Spot,Tomato,Target Spot,Diseased,1827,457,2284,YES,Included to support multi-crop healthy and disease classification using all actual dataset classes.
+37,Tomato___Tomato_mosaic_virus,Tomato,Tomato mosaic virus,Diseased,1790,448,2238,YES,Included to support multi-crop healthy and disease classification using all actual dataset classes.
+38,Tomato___Tomato_Yellow_Leaf_Curl_Virus,Tomato,Tomato Yellow Leaf Curl Virus,Diseased,1961,490,2451,YES,Included to support multi-crop healthy and disease classification using all actual dataset classes.

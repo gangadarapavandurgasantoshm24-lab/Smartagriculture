@@ -1,0 +1,29 @@
+model,metric,class,value
+baseline,accuracy,overall,0.9321648076485316
+baseline,precision,overall,0.9333325265315584
+baseline,recall,overall,0.9318356678384548
+baseline,f1_score,overall,0.9318680945642122
+baseline,recall,Peach___Bacterial_spot,0.7734204793028322
+augmentation_v1,recall,Peach___Bacterial_spot,
+baseline,recall,Tomato___Septoria_leaf_spot,0.7821100917431193
+augmentation_v1,recall,Tomato___Septoria_leaf_spot,
+baseline,recall,Tomato___Early_blight,0.7833333333333333
+augmentation_v1,recall,Tomato___Early_blight,
+baseline,recall,Tomato___Target_Spot,0.8161925601750547
+augmentation_v1,recall,Tomato___Target_Spot,
+baseline,recall,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,0.8292682926829268
+augmentation_v1,recall,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,
+augmentation_v1,accuracy,overall,
+augmentation_v1,precision,overall,
+augmentation_v1,recall,overall,
+augmentation_v1,f1_score,overall,
+baseline,recall,Peach___Bacterial_spot,0.7734204793028322
+augmentation_v1,recall,Peach___Bacterial_spot,
+baseline,recall,Tomato___Septoria_leaf_spot,0.7821100917431193
+augmentation_v1,recall,Tomato___Septoria_leaf_spot,
+baseline,recall,Tomato___Early_blight,0.7833333333333333
+augmentation_v1,recall,Tomato___Early_blight,
+baseline,recall,Tomato___Target_Spot,0.8161925601750547
+augmentation_v1,recall,Tomato___Target_Spot,
+baseline,recall,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,0.8292682926829268
+augmentation_v1,recall,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,
